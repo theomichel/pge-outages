@@ -17,7 +17,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl https://ags.pge.esriemcs.com/arcgis/rest/services/43/outages/MapServer/4/query?where=1%3D1&outFields=OUTAGE_ID%2CCURRENT_ETOR%2COUTAGE_START%2CEST_CUSTOMERS%2COUTAGE_CAUSE%2CCREW_CURRENT_STATUS%2CLAST_UPDATE%2COUTAGE_START_TEXT%2CLAST_UPDATE_TEXT%2CCURRENT_ETOR_TEXT&f=pjson&_$(uuidgen) > pge-events.json
+        curl "https://ags.pge.esriemcs.com/arcgis/rest/services/43/outages/MapServer/4/query?where=1%3D1&outFields=OUTAGE_ID%2CCURRENT_ETOR%2COUTAGE_START%2CEST_CUSTOMERS%2COUTAGE_CAUSE%2CCREW_CURRENT_STATUS%2CLAST_UPDATE%2COUTAGE_START_TEXT%2CLAST_UPDATE_TEXT%2CCURRENT_ETOR_TEXT&f=pjson&_$(uuidgen)" > pge-events.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "outage-data"
