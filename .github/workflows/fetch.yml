@@ -10,29 +10,19 @@ permissions:
   contents: write
 
 jobs:
-  fetch:
+  scheduled:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - uses: actions/setup-python@v5
-      with:
-        python-version: '3.12'
-        cache: 'pip'
-    - name: Install Python tools
-      run: pip install -r requirements.txt
-    - name: Fetch
-      run: |        
-        curl -s "
-        https://ags.pge.esriemcs.com/arcgis/rest/services/43/outages/MapServer/4/query?where=1%3D1&outFields=OUTAGE_ID%2CCURRENT_ETOR%2COUTAGE_START%2CEST_CUSTOMERS%2COUTAGE_CAUSE%2CCREW_CURRENT_STATUS%2CLAST_UPDATE%2COUTAGE_START_TEXT%2CLAST_UPDATE_TEXT%2CCURRENT_ETOR_TEXT&f=pjson&_$(uuidgen)" > outages-new.json
-        head -n 20 outages-new.json
-        head -n 20 outages.json
-    - name: Generate commit message, commit and push
+    - name: Check out repo
+      uses: actions/checkout@v2
+    - name: Fetch latest data
       run: |-
-        csv-diff outages.json outages-new.json --key F_OUTAGE_ID --format json > message.txt
-        mv outages-new.json outages.json
-        git config user.name "Automated"
+        curl https://ags.pge.esriemcs.com/arcgis/rest/services/43/outages/MapServer/4/query?where=1%3D1&outFields=OUTAGE_ID%2CCURRENT_ETOR%2COUTAGE_START%2CEST_CUSTOMERS%2COUTAGE_CAUSE%2CCREW_CURRENT_STATUS%2CLAST_UPDATE%2COUTAGE_START_TEXT%2CLAST_UPDATE_TEXT%2CCURRENT_ETOR_TEXT&f=pjson&_$(uuidgen) > pge-events.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "outage-data"
         git config user.email "actions@users.noreply.github.com"
-        git add outages.json
-        git commit -F message.txt || exit 0
-        git pull --rebase
+        git add pge-events.json
+        timestamp=$(date -u)
+        git commit -m "Latest data as of ${timestamp}" || exit 0
         git push
