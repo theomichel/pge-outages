@@ -22,13 +22,8 @@ jobs:
       run: pip install -r requirements.txt
     - name: Fetch
       run: |        
-        curl -s "https://ags.pge.esriemcs.com/arcgis/rest/services/43/outages/MapServer/5/query?where=1%3D1&outFields=*&f=pjson&_$(uuidgen)" \
-          | jq '.features | map({
-            attributes: (.attributes | del(.blueSkyNotificationSubscription, .OBJECTID)),
-            geometry_x: .geometry.x,
-            geometry_y: .geometry.y
-          } | .attributes + {geometry_x: .geometry_x, geometry_y: .geometry_y})' \
-          > outages-new.json
+        curl -s "
+        https://ags.pge.esriemcs.com/arcgis/rest/services/43/outages/MapServer/4/query?where=1%3D1&outFields=OUTAGE_ID,CURRENT_ETOR,OUTAGE_START,EST_CUSTOMERS,OUTAGE_CAUSE,CREW_CURRENT_STATUS,LAST_UPDATE,OUTAGE_START_TEXT,LAST_UPDATE_TEXT,CURRENT_ETOR_TEXT&f=pjson&_$(uuidgen)" > outages-new.json
         head -n 20 outages-new.json
         head -n 20 outages.json
     - name: Generate commit message, commit and push
