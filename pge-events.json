@@ -81,15 +81,15 @@
   {
    "attributes": {
     "OUTAGE_ID": 10158,
-    "CURRENT_ETOR": null,
+    "CURRENT_ETOR": 1756638900000,
     "OUTAGE_START": 1756625458000,
     "EST_CUSTOMERS": 29,
     "OUTAGE_CAUSE": null,
     "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1756625725000,
+    "LAST_UPDATE": 1756626492000,
     "OUTAGE_START_TEXT": "2025-08-31T07:30:58Z",
-    "LAST_UPDATE_TEXT": "2025-08-31T07:35:25Z",
-    "CURRENT_ETOR_TEXT": null
+    "LAST_UPDATE_TEXT": "2025-08-31T07:48:12Z",
+    "CURRENT_ETOR_TEXT": "2025-08-31T11:15:00Z"
    },
    "geometry": {
     "x": -13592933.749299999,
@@ -296,33 +296,15 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": 10159,
-    "CURRENT_ETOR": null,
-    "OUTAGE_START": 1756625668000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1756625672000,
-    "OUTAGE_START_TEXT": "2025-08-31T07:34:28Z",
-    "LAST_UPDATE_TEXT": "2025-08-31T07:34:32Z",
-    "CURRENT_ETOR_TEXT": null
-   },
-   "geometry": {
-    "x": -13478791.3499,
-    "y": 4240581.3925999999
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": 10160,
     "CURRENT_ETOR": null,
     "OUTAGE_START": 1756625671000,
     "EST_CUSTOMERS": 13,
     "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1756625840000,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "LAST_UPDATE": 1756626163000,
     "OUTAGE_START_TEXT": "2025-08-31T07:34:31Z",
-    "LAST_UPDATE_TEXT": "2025-08-31T07:37:20Z",
+    "LAST_UPDATE_TEXT": "2025-08-31T07:42:43Z",
     "CURRENT_ETOR_TEXT": null
    },
    "geometry": {
@@ -400,6 +382,24 @@
    "geometry": {
     "x": -13490179.681699999,
     "y": 4729636.9662000015
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 10161,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1756626175000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1756626448000,
+    "OUTAGE_START_TEXT": "2025-08-31T07:42:55Z",
+    "LAST_UPDATE_TEXT": "2025-08-31T07:47:28Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13585546.8204,
+    "y": 4487645.1986000016
    }
   },
   {
