@@ -98,24 +98,6 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": 17862,
-    "CURRENT_ETOR": 1757250900000,
-    "OUTAGE_START": 1757202099000,
-    "EST_CUSTOMERS": 16,
-    "OUTAGE_CAUSE": "EMERG REPAIRS",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1757229219000,
-    "OUTAGE_START_TEXT": "2025-09-06T23:41:39Z",
-    "LAST_UPDATE_TEXT": "2025-09-07T07:13:39Z",
-    "CURRENT_ETOR_TEXT": "2025-09-07T13:15:00Z"
-   },
-   "geometry": {
-    "x": -13603147.3266,
-    "y": 4797498.7022999972
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": 17875,
     "CURRENT_ETOR": 1757246400000,
     "OUTAGE_START": 1757203680000,
@@ -184,6 +166,24 @@
    "geometry": {
     "x": -13572077.2006,
     "y": 4494381.5887999982
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 18057,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1757237965000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "LAST_UPDATE": 1757238119000,
+    "OUTAGE_START_TEXT": "2025-09-07T09:39:25Z",
+    "LAST_UPDATE_TEXT": "2025-09-07T09:41:59Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13612098.5392,
+    "y": 4558079.9166999981
    }
   },
   {
@@ -296,24 +296,6 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": 18001,
-    "CURRENT_ETOR": 1757245500000,
-    "OUTAGE_START": 1757224992000,
-    "EST_CUSTOMERS": 11,
-    "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "T-Man Enroute",
-    "LAST_UPDATE": 1757237026000,
-    "OUTAGE_START_TEXT": "2025-09-07T06:03:12Z",
-    "LAST_UPDATE_TEXT": "2025-09-07T09:23:46Z",
-    "CURRENT_ETOR_TEXT": "2025-09-07T11:45:00Z"
-   },
-   "geometry": {
-    "x": -13661916.7524,
-    "y": 4643061.7048000023
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": 18055,
     "CURRENT_ETOR": 1757257200000,
     "OUTAGE_START": 1757233200000,
@@ -328,24 +310,6 @@
    "geometry": {
     "x": -13632776.512400001,
     "y": 4620204.3215000033
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": 17959,
-    "CURRENT_ETOR": 1757240100000,
-    "OUTAGE_START": 1757212714000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "CAR POLE",
-    "CREW_CURRENT_STATUS": "Awaiting Crew",
-    "LAST_UPDATE": 1757234318000,
-    "OUTAGE_START_TEXT": "2025-09-07T02:38:34Z",
-    "LAST_UPDATE_TEXT": "2025-09-07T08:38:38Z",
-    "CURRENT_ETOR_TEXT": "2025-09-07T10:15:00Z"
-   },
-   "geometry": {
-    "x": -13478635.441300001,
-    "y": 4737868.5381999984
    }
   },
   {
