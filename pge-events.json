@@ -188,24 +188,6 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": 17884,
-    "CURRENT_ETOR": 1757242800000,
-    "OUTAGE_START": 1757178534000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "BRKN UG EQUIPMNT",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1757232283000,
-    "OUTAGE_START_TEXT": "2025-09-06T17:08:54Z",
-    "LAST_UPDATE_TEXT": "2025-09-07T08:04:43Z",
-    "CURRENT_ETOR_TEXT": "2025-09-07T11:00:00Z"
-   },
-   "geometry": {
-    "x": -13587253.7388,
-    "y": 4575090.0515000001
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": 12409,
     "CURRENT_ETOR": null,
     "OUTAGE_START": 1756833360000,
@@ -328,6 +310,24 @@
    "geometry": {
     "x": -13661916.7524,
     "y": 4643061.7048000023
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 18055,
+    "CURRENT_ETOR": 1757257200000,
+    "OUTAGE_START": 1757233200000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "LAST_UPDATE": 1757233459000,
+    "OUTAGE_START_TEXT": "2025-09-07T08:20:00Z",
+    "LAST_UPDATE_TEXT": "2025-09-07T08:24:19Z",
+    "CURRENT_ETOR_TEXT": "2025-09-07T15:00:00Z"
+   },
+   "geometry": {
+    "x": -13632776.512400001,
+    "y": 4620204.3215000033
    }
   },
   {
