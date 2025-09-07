@@ -116,20 +116,20 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": 18069,
+    "OUTAGE_ID": 18070,
     "CURRENT_ETOR": null,
-    "OUTAGE_START": 1757241685000,
+    "OUTAGE_START": 1757244033000,
     "EST_CUSTOMERS": 1,
     "OUTAGE_CAUSE": null,
     "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1757244032000,
-    "OUTAGE_START_TEXT": "2025-09-07T10:41:25Z",
-    "LAST_UPDATE_TEXT": "2025-09-07T11:20:32Z",
+    "LAST_UPDATE": 1757244163000,
+    "OUTAGE_START_TEXT": "2025-09-07T11:20:33Z",
+    "LAST_UPDATE_TEXT": "2025-09-07T11:22:43Z",
     "CURRENT_ETOR_TEXT": null
    },
    "geometry": {
-    "x": -13584286.242699999,
-    "y": 4616949.6777999997
+    "x": -13555961.4464,
+    "y": 4470801.2502000034
    }
   },
   {
@@ -153,7 +153,7 @@
   {
    "attributes": {
     "OUTAGE_ID": 18068,
-    "CURRENT_ETOR": null,
+    "CURRENT_ETOR": 1757251800000,
     "OUTAGE_START": 1757243667000,
     "EST_CUSTOMERS": 1,
     "OUTAGE_CAUSE": null,
@@ -161,7 +161,7 @@
     "LAST_UPDATE": 1757243673000,
     "OUTAGE_START_TEXT": "2025-09-07T11:14:27Z",
     "LAST_UPDATE_TEXT": "2025-09-07T11:14:33Z",
-    "CURRENT_ETOR_TEXT": null
+    "CURRENT_ETOR_TEXT": "2025-09-07T13:30:00Z"
    },
    "geometry": {
     "x": -13572089.343600001,
@@ -229,7 +229,7 @@
     "OUTAGE_START": 1757228166000,
     "EST_CUSTOMERS": 29,
     "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
     "LAST_UPDATE": 1757242574000,
     "OUTAGE_START_TEXT": "2025-09-07T06:56:06Z",
     "LAST_UPDATE_TEXT": "2025-09-07T10:56:14Z",
@@ -400,6 +400,24 @@
    "geometry": {
     "x": -13636857.936999999,
     "y": 4542154.2625999972
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 18071,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1757244540000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1757244599000,
+    "OUTAGE_START_TEXT": "2025-09-07T11:29:00Z",
+    "LAST_UPDATE_TEXT": "2025-09-07T11:29:59Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13325948.402100001,
+    "y": 4402603.4821000025
    }
   }
  ]
