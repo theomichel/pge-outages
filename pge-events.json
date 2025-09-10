@@ -206,6 +206,24 @@
   },
   {
    "attributes": {
+    "OUTAGE_ID": 20711,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1757489983000,
+    "EST_CUSTOMERS": 14,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1757490009000,
+    "OUTAGE_START_TEXT": "2025-09-10T07:39:43Z",
+    "LAST_UPDATE_TEXT": "2025-09-10T07:40:09Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13634243.936799999,
+    "y": 4534145.8211999983
+   }
+  },
+  {
+   "attributes": {
     "OUTAGE_ID": 20686,
     "CURRENT_ETOR": 1757502000000,
     "OUTAGE_START": 1757483100000,
@@ -410,9 +428,9 @@
     "EST_CUSTOMERS": 26,
     "OUTAGE_CAUSE": "STORM",
     "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1757489876000,
+    "LAST_UPDATE": 1757490283000,
     "OUTAGE_START_TEXT": "2025-09-10T06:48:23Z",
-    "LAST_UPDATE_TEXT": "2025-09-10T07:37:56Z",
+    "LAST_UPDATE_TEXT": "2025-09-10T07:44:43Z",
     "CURRENT_ETOR_TEXT": "2025-09-10T11:15:00Z"
    },
    "geometry": {
@@ -652,24 +670,6 @@
    "geometry": {
     "x": -13573792.907200001,
     "y": 4441851.9285999984
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": 20029,
-    "CURRENT_ETOR": 1757505600000,
-    "OUTAGE_START": 1757438400000,
-    "EST_CUSTOMERS": 56,
-    "OUTAGE_CAUSE": "BRKN UG EQUIPMNT",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1757489974000,
-    "OUTAGE_START_TEXT": "2025-09-09T17:20:00Z",
-    "LAST_UPDATE_TEXT": "2025-09-10T07:39:34Z",
-    "CURRENT_ETOR_TEXT": "2025-09-10T12:00:00Z"
-   },
-   "geometry": {
-    "x": -13572688.243799999,
-    "y": 4542974.4193999991
    }
   },
   {
@@ -1124,6 +1124,24 @@
   },
   {
    "attributes": {
+    "OUTAGE_ID": 20713,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1757490389000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1757490395000,
+    "OUTAGE_START_TEXT": "2025-09-10T07:46:29Z",
+    "LAST_UPDATE_TEXT": "2025-09-10T07:46:35Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13571189.452,
+    "y": 4535536.5939999968
+   }
+  },
+  {
+   "attributes": {
     "OUTAGE_ID": 19926,
     "CURRENT_ETOR": 1757494800000,
     "OUTAGE_START": 1757434606000,
@@ -1174,6 +1192,24 @@
    "geometry": {
     "x": -13602029.5045,
     "y": 4544924.1074000001
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 20712,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1757489940000,
+    "EST_CUSTOMERS": 304,
+    "OUTAGE_CAUSE": "EMERG REPAIRS",
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "LAST_UPDATE": 1757490409000,
+    "OUTAGE_START_TEXT": "2025-09-10T07:39:00Z",
+    "LAST_UPDATE_TEXT": "2025-09-10T07:46:49Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13585266.422699999,
+    "y": 4569710.4171999991
    }
   }
  ]
