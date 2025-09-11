@@ -4,4 +4,4 @@ This repository is a fork of simonw's [original PG&E outages scraper](https://gi
 
 The difference between this fork and the original is that this one accesses a different dataset from the PG&E GIS server, which should offer a more complete picture of outages. See here for more info on why: https://github.com/simonw/pge-outages/issues/4#issuecomment-1928758853. 
 
-This repository started tracking outages using the new dataset on August 25th, 2025. Because it's a fork, the history of outages.json prior to that date contains the old (more limited) outage data, so it's advisable to only use data after August 25th. 
+This repository started tracking outages using the new dataset on August 25th, 2025 into the file "pge-events.jso". Use that file for the new data and format. Outages.json is the original data from the parent repository.
