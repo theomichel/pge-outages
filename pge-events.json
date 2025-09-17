@@ -152,24 +152,6 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": 27303,
-    "CURRENT_ETOR": 1758099600000,
-    "OUTAGE_START": 1758071940000,
-    "EST_CUSTOMERS": 175,
-    "OUTAGE_CAUSE": "EMERG REPAIRS",
-    "CREW_CURRENT_STATUS": "Awaiting Crew",
-    "LAST_UPDATE": 1758095582000,
-    "OUTAGE_START_TEXT": "2025-09-17T01:19:00Z",
-    "LAST_UPDATE_TEXT": "2025-09-17T07:53:02Z",
-    "CURRENT_ETOR_TEXT": "2025-09-17T09:00:00Z"
-   },
-   "geometry": {
-    "x": -13555049.4352,
-    "y": 4676258.1660000011
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": 27333,
     "CURRENT_ETOR": 1758105060000,
     "OUTAGE_START": 1758077503000,
@@ -512,6 +494,24 @@
   },
   {
    "attributes": {
+    "OUTAGE_ID": 27425,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1758098633000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1758098947000,
+    "OUTAGE_START_TEXT": "2025-09-17T08:43:53Z",
+    "LAST_UPDATE_TEXT": "2025-09-17T08:49:07Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13501895.9804,
+    "y": 4574138.7531000003
+   }
+  },
+  {
+   "attributes": {
     "OUTAGE_ID": 12409,
     "CURRENT_ETOR": null,
     "OUTAGE_START": 1756833360000,
@@ -675,7 +675,7 @@
   {
    "attributes": {
     "OUTAGE_ID": 27424,
-    "CURRENT_ETOR": null,
+    "CURRENT_ETOR": 1758115800000,
     "OUTAGE_START": 1758098031000,
     "EST_CUSTOMERS": 1,
     "OUTAGE_CAUSE": null,
@@ -683,11 +683,29 @@
     "LAST_UPDATE": 1758098486000,
     "OUTAGE_START_TEXT": "2025-09-17T08:33:51Z",
     "LAST_UPDATE_TEXT": "2025-09-17T08:41:26Z",
-    "CURRENT_ETOR_TEXT": null
+    "CURRENT_ETOR_TEXT": "2025-09-17T13:30:00Z"
    },
    "geometry": {
     "x": -13614005.4911,
     "y": 4625398.7128999978
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 27426,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1758099124000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1758099125000,
+    "OUTAGE_START_TEXT": "2025-09-17T08:52:04Z",
+    "LAST_UPDATE_TEXT": "2025-09-17T08:52:05Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13335924.686799999,
+    "y": 4409477.4541999996
    }
   },
   {
