@@ -116,24 +116,6 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": 30642,
-    "CURRENT_ETOR": 1758384000000,
-    "OUTAGE_START": 1758329676000,
-    "EST_CUSTOMERS": 11,
-    "OUTAGE_CAUSE": "EMERG REPAIRS",
-    "CREW_CURRENT_STATUS": "Awaiting Crew",
-    "LAST_UPDATE": 1758360213000,
-    "OUTAGE_START_TEXT": "2025-09-20T00:54:36Z",
-    "LAST_UPDATE_TEXT": "2025-09-20T09:23:33Z",
-    "CURRENT_ETOR_TEXT": "2025-09-20T16:00:00Z"
-   },
-   "geometry": {
-    "x": -13309955.4681,
-    "y": 4314022.0420999974
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": 30741,
     "CURRENT_ETOR": 1758376800000,
     "OUTAGE_START": 1758341911000,
@@ -202,24 +184,6 @@
    "geometry": {
     "x": -13573084.6821,
     "y": 4482245.2735999972
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": 30812,
-    "CURRENT_ETOR": null,
-    "OUTAGE_START": 1758361087000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1758361090000,
-    "OUTAGE_START_TEXT": "2025-09-20T09:38:07Z",
-    "LAST_UPDATE_TEXT": "2025-09-20T09:38:10Z",
-    "CURRENT_ETOR_TEXT": null
-   },
-   "geometry": {
-    "x": -13632454.388599999,
-    "y": 4542120.7674999982
    }
   },
   {
@@ -481,7 +445,7 @@
     "OUTAGE_START": 1758357416000,
     "EST_CUSTOMERS": 40,
     "OUTAGE_CAUSE": "PATROLLING",
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
     "LAST_UPDATE": 1758359543000,
     "OUTAGE_START_TEXT": "2025-09-20T08:36:56Z",
     "LAST_UPDATE_TEXT": "2025-09-20T09:12:23Z",
@@ -562,6 +526,24 @@
    "geometry": {
     "x": -13502643.168400001,
     "y": 4566213.0328999981
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 30813,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1758361426000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1758361430000,
+    "OUTAGE_START_TEXT": "2025-09-20T09:43:46Z",
+    "LAST_UPDATE_TEXT": "2025-09-20T09:43:50Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13578746.5119,
+    "y": 4514319.2621999979
    }
   }
  ]
