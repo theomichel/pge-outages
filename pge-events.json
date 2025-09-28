@@ -279,7 +279,7 @@
   {
    "attributes": {
     "OUTAGE_ID": 39704,
-    "CURRENT_ETOR": null,
+    "CURRENT_ETOR": 1759081500000,
     "OUTAGE_START": 1759065883000,
     "EST_CUSTOMERS": 10,
     "OUTAGE_CAUSE": null,
@@ -287,7 +287,7 @@
     "LAST_UPDATE": 1759066461000,
     "OUTAGE_START_TEXT": "2025-09-28T13:24:43Z",
     "LAST_UPDATE_TEXT": "2025-09-28T13:34:21Z",
-    "CURRENT_ETOR_TEXT": null
+    "CURRENT_ETOR_TEXT": "2025-09-28T17:45:00Z"
    },
    "geometry": {
     "x": -13533364.780999999,
@@ -400,6 +400,24 @@
    "geometry": {
     "x": -13601556.7455,
     "y": 4804293.701700002
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 39706,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1759066951000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1759067319000,
+    "OUTAGE_START_TEXT": "2025-09-28T13:42:31Z",
+    "LAST_UPDATE_TEXT": "2025-09-28T13:48:39Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13603217.8358,
+    "y": 4547345.3720000014
    }
   },
   {
@@ -518,9 +536,9 @@
     "EST_CUSTOMERS": 64,
     "OUTAGE_CAUSE": "TREE CONTACT",
     "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1759066765000,
+    "LAST_UPDATE": 1759067011000,
     "OUTAGE_START_TEXT": "2025-09-27T23:28:00Z",
-    "LAST_UPDATE_TEXT": "2025-09-28T13:39:25Z",
+    "LAST_UPDATE_TEXT": "2025-09-28T13:43:31Z",
     "CURRENT_ETOR_TEXT": "2025-09-28T14:30:00Z"
    },
    "geometry": {
