@@ -230,9 +230,9 @@
     "EST_CUSTOMERS": 246,
     "OUTAGE_CAUSE": "PATROLLING",
     "CREW_CURRENT_STATUS": "T-Man On Site",
-    "LAST_UPDATE": 1759052082000,
+    "LAST_UPDATE": 1759052743000,
     "OUTAGE_START_TEXT": "2025-09-28T08:37:47Z",
-    "LAST_UPDATE_TEXT": "2025-09-28T09:34:42Z",
+    "LAST_UPDATE_TEXT": "2025-09-28T09:45:43Z",
     "CURRENT_ETOR_TEXT": "2025-09-28T17:00:00Z"
    },
    "geometry": {
@@ -279,7 +279,7 @@
   {
    "attributes": {
     "OUTAGE_ID": 39679,
-    "CURRENT_ETOR": null,
+    "CURRENT_ETOR": 1759067100000,
     "OUTAGE_START": 1759051525000,
     "EST_CUSTOMERS": 1,
     "OUTAGE_CAUSE": null,
@@ -287,7 +287,7 @@
     "LAST_UPDATE": 1759051527000,
     "OUTAGE_START_TEXT": "2025-09-28T09:25:25Z",
     "LAST_UPDATE_TEXT": "2025-09-28T09:25:27Z",
-    "CURRENT_ETOR_TEXT": null
+    "CURRENT_ETOR_TEXT": "2025-09-28T13:45:00Z"
    },
    "geometry": {
     "x": -13603312.631299999,
@@ -346,6 +346,24 @@
    "geometry": {
     "x": -13537889.867699999,
     "y": 4847621.9528999999
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 39680,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1759052439000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "LAST_UPDATE": 1759052640000,
+    "OUTAGE_START_TEXT": "2025-09-28T09:40:39Z",
+    "LAST_UPDATE_TEXT": "2025-09-28T09:44:00Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13664225.364599999,
+    "y": 4637628.9838000014
    }
   },
   {
@@ -598,6 +616,24 @@
    "geometry": {
     "x": -13579843.251899999,
     "y": 4494886.2942999974
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 39686,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1759052700000,
+    "EST_CUSTOMERS": 1669,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1759053017000,
+    "OUTAGE_START_TEXT": "2025-09-28T09:45:00Z",
+    "LAST_UPDATE_TEXT": "2025-09-28T09:50:17Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13455748.212099999,
+    "y": 4720757.1818000004
    }
   },
   {
