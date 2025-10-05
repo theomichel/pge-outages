@@ -476,24 +476,6 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": 46775,
-    "CURRENT_ETOR": 1759664700000,
-    "OUTAGE_START": 1759649184000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "PATROLLING",
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "LAST_UPDATE": 1759652557000,
-    "OUTAGE_START_TEXT": "2025-10-05T07:26:24Z",
-    "LAST_UPDATE_TEXT": "2025-10-05T08:22:37Z",
-    "CURRENT_ETOR_TEXT": "2025-10-05T11:45:00Z"
-   },
-   "geometry": {
-    "x": -13623367.228,
-    "y": 4521005.5454000011
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": 46781,
     "CURRENT_ETOR": 1759690800000,
     "OUTAGE_START": 1759654746000,
@@ -544,6 +526,24 @@
    "geometry": {
     "x": -13567448.6428,
     "y": 4439653.8449999988
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 46783,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1759656459000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": "PATROLLING",
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "LAST_UPDATE": 1759656503000,
+    "OUTAGE_START_TEXT": "2025-10-05T09:27:39Z",
+    "LAST_UPDATE_TEXT": "2025-10-05T09:28:23Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13623367.228,
+    "y": 4521005.5454000011
    }
   },
   {
@@ -634,24 +634,6 @@
    "geometry": {
     "x": -13604527.045299999,
     "y": 4547010.7884000018
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": 46379,
-    "CURRENT_ETOR": 1759672800000,
-    "OUTAGE_START": 1759603560000,
-    "EST_CUSTOMERS": 20,
-    "OUTAGE_CAUSE": "BRKN UG EQUIPMNT",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1759656281000,
-    "OUTAGE_START_TEXT": "2025-10-04T18:46:00Z",
-    "LAST_UPDATE_TEXT": "2025-10-05T09:24:41Z",
-    "CURRENT_ETOR_TEXT": "2025-10-05T14:00:00Z"
-   },
-   "geometry": {
-    "x": -13566477.4559,
-    "y": 4530556.7519999966
    }
   },
   {
