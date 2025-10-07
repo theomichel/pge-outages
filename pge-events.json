@@ -171,7 +171,7 @@
   {
    "attributes": {
     "OUTAGE_ID": 48246,
-    "CURRENT_ETOR": null,
+    "CURRENT_ETOR": 1759855500000,
     "OUTAGE_START": 1759835640000,
     "EST_CUSTOMERS": 121,
     "OUTAGE_CAUSE": null,
@@ -179,7 +179,7 @@
     "LAST_UPDATE": 1759835892000,
     "OUTAGE_START_TEXT": "2025-10-07T11:14:00Z",
     "LAST_UPDATE_TEXT": "2025-10-07T11:18:12Z",
-    "CURRENT_ETOR_TEXT": null
+    "CURRENT_ETOR_TEXT": "2025-10-07T16:45:00Z"
    },
    "geometry": {
     "x": -13606160.2828,
@@ -310,24 +310,6 @@
    "geometry": {
     "x": -13571634.975200001,
     "y": 4478117.7375999987
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": 48184,
-    "CURRENT_ETOR": 1759826700000,
-    "OUTAGE_START": 1759809834000,
-    "EST_CUSTOMERS": 12,
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1759836015000,
-    "OUTAGE_START_TEXT": "2025-10-07T04:03:54Z",
-    "LAST_UPDATE_TEXT": "2025-10-07T11:20:15Z",
-    "CURRENT_ETOR_TEXT": "2025-10-07T08:45:00Z"
-   },
-   "geometry": {
-    "x": -13571110.946699999,
-    "y": 4383978.4597999975
    }
   },
   {
