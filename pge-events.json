@@ -152,24 +152,6 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": 48241,
-    "CURRENT_ETOR": 1759845600000,
-    "OUTAGE_START": 1759833427000,
-    "EST_CUSTOMERS": 23,
-    "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1759834034000,
-    "OUTAGE_START_TEXT": "2025-10-07T10:37:07Z",
-    "LAST_UPDATE_TEXT": "2025-10-07T10:47:14Z",
-    "CURRENT_ETOR_TEXT": "2025-10-07T14:00:00Z"
-   },
-   "geometry": {
-    "x": -13615917.506200001,
-    "y": 4576775.7434
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": 48194,
     "CURRENT_ETOR": 1759835700000,
     "OUTAGE_START": 1759813985000,
@@ -184,6 +166,24 @@
    "geometry": {
     "x": -13566304.167199999,
     "y": 4487655.8597000018
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 48246,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1759835640000,
+    "EST_CUSTOMERS": 121,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1759835892000,
+    "OUTAGE_START_TEXT": "2025-10-07T11:14:00Z",
+    "LAST_UPDATE_TEXT": "2025-10-07T11:18:12Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13606160.2828,
+    "y": 4595781.4375
    }
   },
   {
@@ -320,9 +320,9 @@
     "EST_CUSTOMERS": 12,
     "OUTAGE_CAUSE": "PLNND SHUTDOWN",
     "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1759810687000,
+    "LAST_UPDATE": 1759836015000,
     "OUTAGE_START_TEXT": "2025-10-07T04:03:54Z",
-    "LAST_UPDATE_TEXT": "2025-10-07T04:18:07Z",
+    "LAST_UPDATE_TEXT": "2025-10-07T11:20:15Z",
     "CURRENT_ETOR_TEXT": "2025-10-07T08:45:00Z"
    },
    "geometry": {
@@ -364,24 +364,6 @@
    "geometry": {
     "x": -13605039.4176,
     "y": 4598299.4588999972
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": 48242,
-    "CURRENT_ETOR": 1759845600000,
-    "OUTAGE_START": 1759833581000,
-    "EST_CUSTOMERS": 122,
-    "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1759833717000,
-    "OUTAGE_START_TEXT": "2025-10-07T10:39:41Z",
-    "LAST_UPDATE_TEXT": "2025-10-07T10:41:57Z",
-    "CURRENT_ETOR_TEXT": "2025-10-07T14:00:00Z"
-   },
-   "geometry": {
-    "x": -13616006.3014,
-    "y": 4576768.4843000025
    }
   },
   {
