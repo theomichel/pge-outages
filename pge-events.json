@@ -134,6 +134,24 @@
   },
   {
    "attributes": {
+    "OUTAGE_ID": 49118,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1759932366000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1759932373000,
+    "OUTAGE_START_TEXT": "2025-10-08T14:06:06Z",
+    "LAST_UPDATE_TEXT": "2025-10-08T14:06:13Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13334380.4241,
+    "y": 4402931.0419000015
+   }
+  },
+  {
+   "attributes": {
     "OUTAGE_ID": 49020,
     "CURRENT_ETOR": 1759966200000,
     "OUTAGE_START": 1759894505000,
@@ -157,7 +175,7 @@
     "OUTAGE_START": 1759918320000,
     "EST_CUSTOMERS": 1,
     "OUTAGE_CAUSE": "EMERG REPAIRS",
-    "CREW_CURRENT_STATUS": "Awaiting Crew",
+    "CREW_CURRENT_STATUS": "Crew On Site",
     "LAST_UPDATE": 1759928471000,
     "OUTAGE_START_TEXT": "2025-10-08T10:12:00Z",
     "LAST_UPDATE_TEXT": "2025-10-08T13:01:11Z",
@@ -176,9 +194,9 @@
     "EST_CUSTOMERS": 50,
     "OUTAGE_CAUSE": "PATROLLING",
     "CREW_CURRENT_STATUS": "T-Man On Site",
-    "LAST_UPDATE": 1759927295000,
+    "LAST_UPDATE": 1759932954000,
     "OUTAGE_START_TEXT": "2025-10-08T11:07:00Z",
-    "LAST_UPDATE_TEXT": "2025-10-08T12:41:35Z",
+    "LAST_UPDATE_TEXT": "2025-10-08T14:15:54Z",
     "CURRENT_ETOR_TEXT": "2025-10-08T19:45:00Z"
    },
    "geometry": {
@@ -202,24 +220,6 @@
    "geometry": {
     "x": -13503445.7369,
     "y": 4570432.8687999994
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": 49113,
-    "CURRENT_ETOR": 1759947300000,
-    "OUTAGE_START": 1759927601000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "PATROLLING",
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "LAST_UPDATE": 1759931015000,
-    "OUTAGE_START_TEXT": "2025-10-08T12:46:41Z",
-    "LAST_UPDATE_TEXT": "2025-10-08T13:43:35Z",
-    "CURRENT_ETOR_TEXT": "2025-10-08T18:15:00Z"
-   },
-   "geometry": {
-    "x": -13546007.500300001,
-    "y": 4744900.3585999981
    }
   },
   {
@@ -314,6 +314,42 @@
   },
   {
    "attributes": {
+    "OUTAGE_ID": 49116,
+    "CURRENT_ETOR": 1759935600000,
+    "OUTAGE_START": 1759931769000,
+    "EST_CUSTOMERS": 34,
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "LAST_UPDATE": 1759932373000,
+    "OUTAGE_START_TEXT": "2025-10-08T13:56:09Z",
+    "LAST_UPDATE_TEXT": "2025-10-08T14:06:13Z",
+    "CURRENT_ETOR_TEXT": "2025-10-08T15:00:00Z"
+   },
+   "geometry": {
+    "x": -13410130.1105,
+    "y": 4599839.2805000022
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 49120,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1759932455000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "LAST_UPDATE": 1759932641000,
+    "OUTAGE_START_TEXT": "2025-10-08T14:07:35Z",
+    "LAST_UPDATE_TEXT": "2025-10-08T14:10:41Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13563337.838199999,
+    "y": 4489961.9074999988
+   }
+  },
+  {
+   "attributes": {
     "OUTAGE_ID": 20306,
     "CURRENT_ETOR": 1759991400000,
     "OUTAGE_START": 1757450767000,
@@ -382,6 +418,42 @@
    "geometry": {
     "x": -13606668.139,
     "y": 4590432.752700001
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 49117,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1759932358000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1759932364000,
+    "OUTAGE_START_TEXT": "2025-10-08T14:05:58Z",
+    "LAST_UPDATE_TEXT": "2025-10-08T14:06:04Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13570804.9651,
+    "y": 4470360.8159999996
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 49119,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1759932367000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1759932373000,
+    "OUTAGE_START_TEXT": "2025-10-08T14:06:07Z",
+    "LAST_UPDATE_TEXT": "2025-10-08T14:06:13Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13333842.5436,
+    "y": 4403461.1970999986
    }
   }
  ]
