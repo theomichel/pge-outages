@@ -116,33 +116,15 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": 49568,
-    "CURRENT_ETOR": 1760017260000,
-    "OUTAGE_START": 1759950300000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "BRKN UG EQUIPMNT",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1760005712000,
-    "OUTAGE_START_TEXT": "2025-10-08T19:05:00Z",
-    "LAST_UPDATE_TEXT": "2025-10-09T10:28:32Z",
-    "CURRENT_ETOR_TEXT": "2025-10-09T13:41:00Z"
-   },
-   "geometry": {
-    "x": -13556074.0265,
-    "y": 4574137.9843999967
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": 50009,
     "CURRENT_ETOR": null,
     "OUTAGE_START": 1760009680000,
     "EST_CUSTOMERS": 58,
     "OUTAGE_CAUSE": null,
     "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1760009760000,
+    "LAST_UPDATE": 1760010003000,
     "OUTAGE_START_TEXT": "2025-10-09T11:34:40Z",
-    "LAST_UPDATE_TEXT": "2025-10-09T11:36:00Z",
+    "LAST_UPDATE_TEXT": "2025-10-09T11:40:03Z",
     "CURRENT_ETOR_TEXT": null
    },
    "geometry": {
@@ -229,10 +211,10 @@
     "OUTAGE_START": 1760007238000,
     "EST_CUSTOMERS": 202,
     "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1760009794000,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "LAST_UPDATE": 1760010181000,
     "OUTAGE_START_TEXT": "2025-10-09T10:53:58Z",
-    "LAST_UPDATE_TEXT": "2025-10-09T11:36:34Z",
+    "LAST_UPDATE_TEXT": "2025-10-09T11:43:01Z",
     "CURRENT_ETOR_TEXT": "2025-10-09T17:00:00Z"
    },
    "geometry": {
@@ -454,6 +436,24 @@
    "geometry": {
     "x": -13499819.8236,
     "y": 4572394.5700000003
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 50010,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1760010205000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "LAST_UPDATE": 1760010207000,
+    "OUTAGE_START_TEXT": "2025-10-09T11:43:25Z",
+    "LAST_UPDATE_TEXT": "2025-10-09T11:43:27Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13609835.4804,
+    "y": 4564840.0970000029
    }
   },
   {
