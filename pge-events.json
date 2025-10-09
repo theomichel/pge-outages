@@ -134,6 +134,24 @@
   },
   {
    "attributes": {
+    "OUTAGE_ID": 49999,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1760007654000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1760007656000,
+    "OUTAGE_START_TEXT": "2025-10-09T11:00:54Z",
+    "LAST_UPDATE_TEXT": "2025-10-09T11:00:56Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13571332.261,
+    "y": 4527103.1475000009
+   }
+  },
+  {
+   "attributes": {
     "OUTAGE_ID": 49899,
     "CURRENT_ETOR": 1760014800000,
     "OUTAGE_START": 1759982099000,
@@ -224,6 +242,24 @@
   },
   {
    "attributes": {
+    "OUTAGE_ID": 50001,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1760007918000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1760007920000,
+    "OUTAGE_START_TEXT": "2025-10-09T11:05:18Z",
+    "LAST_UPDATE_TEXT": "2025-10-09T11:05:20Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13568879.875700001,
+    "y": 4522984.8413000032
+   }
+  },
+  {
+   "attributes": {
     "OUTAGE_ID": 49327,
     "CURRENT_ETOR": 1759971600000,
     "OUTAGE_START": 1759939076000,
@@ -279,7 +315,7 @@
   {
    "attributes": {
     "OUTAGE_ID": 49992,
-    "CURRENT_ETOR": null,
+    "CURRENT_ETOR": 1760029200000,
     "OUTAGE_START": 1760006078000,
     "EST_CUSTOMERS": 10,
     "OUTAGE_CAUSE": null,
@@ -287,7 +323,7 @@
     "LAST_UPDATE": 1760006200000,
     "OUTAGE_START_TEXT": "2025-10-09T10:34:38Z",
     "LAST_UPDATE_TEXT": "2025-10-09T10:36:40Z",
-    "CURRENT_ETOR_TEXT": null
+    "CURRENT_ETOR_TEXT": "2025-10-09T17:00:00Z"
    },
    "geometry": {
     "x": -13554814.3311,
@@ -404,24 +440,6 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": 49882,
-    "CURRENT_ETOR": 1760014800000,
-    "OUTAGE_START": 1759978031000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "REPLCE SRVC",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1760001501000,
-    "OUTAGE_START_TEXT": "2025-10-09T02:47:11Z",
-    "LAST_UPDATE_TEXT": "2025-10-09T09:18:21Z",
-    "CURRENT_ETOR_TEXT": "2025-10-09T13:00:00Z"
-   },
-   "geometry": {
-    "x": -13601869.747000001,
-    "y": 4501177.5886999965
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": 49906,
     "CURRENT_ETOR": 1760018400000,
     "OUTAGE_START": 1759982520000,
@@ -459,19 +477,37 @@
   {
    "attributes": {
     "OUTAGE_ID": 49994,
-    "CURRENT_ETOR": null,
+    "CURRENT_ETOR": 1760029200000,
     "OUTAGE_START": 1759999380000,
     "EST_CUSTOMERS": 11,
-    "OUTAGE_CAUSE": null,
+    "OUTAGE_CAUSE": "THRD PARTY",
     "CREW_CURRENT_STATUS": "T-Man On Site",
-    "LAST_UPDATE": 1760006787000,
+    "LAST_UPDATE": 1760007218000,
     "OUTAGE_START_TEXT": "2025-10-09T08:43:00Z",
-    "LAST_UPDATE_TEXT": "2025-10-09T10:46:27Z",
-    "CURRENT_ETOR_TEXT": null
+    "LAST_UPDATE_TEXT": "2025-10-09T10:53:38Z",
+    "CURRENT_ETOR_TEXT": "2025-10-09T17:00:00Z"
    },
    "geometry": {
     "x": -13499819.8236,
     "y": 4572394.5700000003
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 49998,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1760007238000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1760007241000,
+    "OUTAGE_START_TEXT": "2025-10-09T10:53:58Z",
+    "LAST_UPDATE_TEXT": "2025-10-09T10:54:01Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13568791.548999999,
+    "y": 4522597.442900002
    }
   },
   {
@@ -508,6 +544,24 @@
    "geometry": {
     "x": -13569980.333000001,
     "y": 4589398.4092999995
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 49997,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1760007240000,
+    "EST_CUSTOMERS": 4,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1760007241000,
+    "OUTAGE_START_TEXT": "2025-10-09T10:54:00Z",
+    "LAST_UPDATE_TEXT": "2025-10-09T10:54:01Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13568782.2798,
+    "y": 4522709.1598000005
    }
   }
  ]
