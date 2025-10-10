@@ -116,24 +116,6 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": 50631,
-    "CURRENT_ETOR": 1760086800000,
-    "OUTAGE_START": 1760041260000,
-    "EST_CUSTOMERS": 37,
-    "OUTAGE_CAUSE": "THRD PARTY",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1760077891000,
-    "OUTAGE_START_TEXT": "2025-10-09T20:21:00Z",
-    "LAST_UPDATE_TEXT": "2025-10-10T06:31:31Z",
-    "CURRENT_ETOR_TEXT": "2025-10-10T09:00:00Z"
-   },
-   "geometry": {
-    "x": -13276148.6768,
-    "y": 4374960.4262999967
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": 50899,
     "CURRENT_ETOR": 1760097600000,
     "OUTAGE_START": 1760063040000,
@@ -184,6 +166,24 @@
    "geometry": {
     "x": -13563847.403200001,
     "y": 4428598.0710999966
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 51059,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1760081700000,
+    "EST_CUSTOMERS": 3,
+    "OUTAGE_CAUSE": "BRKN POLE EQUIPMNT",
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "LAST_UPDATE": 1760081904000,
+    "OUTAGE_START_TEXT": "2025-10-10T07:35:00Z",
+    "LAST_UPDATE_TEXT": "2025-10-10T07:38:24Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13814463.1413,
+    "y": 5011083.1849000007
    }
   },
   {
@@ -310,24 +310,6 @@
    "geometry": {
     "x": -13629564.9341,
     "y": 4530904.8963000029
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": 51058,
-    "CURRENT_ETOR": null,
-    "OUTAGE_START": 1760080970000,
-    "EST_CUSTOMERS": 9,
-    "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1760081005000,
-    "OUTAGE_START_TEXT": "2025-10-10T07:22:50Z",
-    "LAST_UPDATE_TEXT": "2025-10-10T07:23:25Z",
-    "CURRENT_ETOR_TEXT": null
-   },
-   "geometry": {
-    "x": -13589466.1851,
-    "y": 4529310.6731999964
    }
   },
   {
@@ -783,15 +765,15 @@
   {
    "attributes": {
     "OUTAGE_ID": 50830,
-    "CURRENT_ETOR": 1760083200000,
+    "CURRENT_ETOR": 1760090400000,
     "OUTAGE_START": 1760056886000,
     "EST_CUSTOMERS": 8,
     "OUTAGE_CAUSE": "BRKN POLE EQUIPMNT",
     "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1760077082000,
+    "LAST_UPDATE": 1760081415000,
     "OUTAGE_START_TEXT": "2025-10-10T00:41:26Z",
-    "LAST_UPDATE_TEXT": "2025-10-10T06:18:02Z",
-    "CURRENT_ETOR_TEXT": "2025-10-10T08:00:00Z"
+    "LAST_UPDATE_TEXT": "2025-10-10T07:30:15Z",
+    "CURRENT_ETOR_TEXT": "2025-10-10T10:00:00Z"
    },
    "geometry": {
     "x": -13596850.311799999,
@@ -855,7 +837,7 @@
   {
    "attributes": {
     "OUTAGE_ID": 51056,
-    "CURRENT_ETOR": null,
+    "CURRENT_ETOR": 1760094900000,
     "OUTAGE_START": 1760080457000,
     "EST_CUSTOMERS": 9,
     "OUTAGE_CAUSE": "PATROLLING",
@@ -863,7 +845,7 @@
     "LAST_UPDATE": 1760080748000,
     "OUTAGE_START_TEXT": "2025-10-10T07:14:17Z",
     "LAST_UPDATE_TEXT": "2025-10-10T07:19:08Z",
-    "CURRENT_ETOR_TEXT": null
+    "CURRENT_ETOR_TEXT": "2025-10-10T11:15:00Z"
    },
    "geometry": {
     "x": -13592750.7183,
@@ -1016,24 +998,6 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": 51028,
-    "CURRENT_ETOR": 1760099400000,
-    "OUTAGE_START": 1760073299000,
-    "EST_CUSTOMERS": 8,
-    "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1760073634000,
-    "OUTAGE_START_TEXT": "2025-10-10T05:14:59Z",
-    "LAST_UPDATE_TEXT": "2025-10-10T05:20:34Z",
-    "CURRENT_ETOR_TEXT": "2025-10-10T12:30:00Z"
-   },
-   "geometry": {
-    "x": -13543517.884,
-    "y": 4411556.179899998
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": 51047,
     "CURRENT_ETOR": 1760113800000,
     "OUTAGE_START": 1760077290000,
@@ -1066,24 +1030,6 @@
    "geometry": {
     "x": -13622830.319,
     "y": 4570370.4244000018
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": 50637,
-    "CURRENT_ETOR": 1760101200000,
-    "OUTAGE_START": 1760042007000,
-    "EST_CUSTOMERS": 4,
-    "OUTAGE_CAUSE": "FOREIGN OBJ",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1760080854000,
-    "OUTAGE_START_TEXT": "2025-10-09T20:33:27Z",
-    "LAST_UPDATE_TEXT": "2025-10-10T07:20:54Z",
-    "CURRENT_ETOR_TEXT": "2025-10-10T13:00:00Z"
-   },
-   "geometry": {
-    "x": -13335706.6829,
-    "y": 4415162.5209000036
    }
   },
   {
