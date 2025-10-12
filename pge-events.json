@@ -140,9 +140,9 @@
     "EST_CUSTOMERS": 29,
     "OUTAGE_CAUSE": "TREE CONTACT",
     "CREW_CURRENT_STATUS": "T-Man On Site",
-    "LAST_UPDATE": 1760239873000,
+    "LAST_UPDATE": 1760255468000,
     "OUTAGE_START_TEXT": "2025-10-11T22:14:00Z",
-    "LAST_UPDATE_TEXT": "2025-10-12T03:31:13Z",
+    "LAST_UPDATE_TEXT": "2025-10-12T07:51:08Z",
     "CURRENT_ETOR_TEXT": "2025-10-12T07:59:00Z"
    },
    "geometry": {
@@ -166,6 +166,24 @@
    "geometry": {
     "x": -13379384.478599999,
     "y": 4411379.4913000017
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 52558,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1760255220000,
+    "EST_CUSTOMERS": 3896,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1760255436000,
+    "OUTAGE_START_TEXT": "2025-10-12T07:47:00Z",
+    "LAST_UPDATE_TEXT": "2025-10-12T07:50:36Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13426913.4288,
+    "y": 4586839.9068000019
    }
   },
   {
@@ -476,6 +494,24 @@
   },
   {
    "attributes": {
+    "OUTAGE_ID": 52557,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1760255009000,
+    "EST_CUSTOMERS": 29,
+    "OUTAGE_CAUSE": "EMERG REPAIRS",
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1760255361000,
+    "OUTAGE_START_TEXT": "2025-10-12T07:43:29Z",
+    "LAST_UPDATE_TEXT": "2025-10-12T07:49:21Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13362576.5943,
+    "y": 4414968.2696999982
+   }
+  },
+  {
+   "attributes": {
     "OUTAGE_ID": 52343,
     "CURRENT_ETOR": 1760270400000,
     "OUTAGE_START": 1760220760000,
@@ -499,10 +535,10 @@
     "OUTAGE_START": 1760227080000,
     "EST_CUSTOMERS": 1,
     "OUTAGE_CAUSE": "Awaiting Investigation",
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "LAST_UPDATE": 1760254642000,
+    "CREW_CURRENT_STATUS": "Awaiting Crew",
+    "LAST_UPDATE": 1760255365000,
     "OUTAGE_START_TEXT": "2025-10-11T23:58:00Z",
-    "LAST_UPDATE_TEXT": "2025-10-12T07:37:22Z",
+    "LAST_UPDATE_TEXT": "2025-10-12T07:49:25Z",
     "CURRENT_ETOR_TEXT": "2025-10-12T19:00:00Z"
    },
    "geometry": {
