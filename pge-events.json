@@ -98,24 +98,6 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": 58336,
-    "CURRENT_ETOR": 1760788800000,
-    "OUTAGE_START": 1760742237000,
-    "EST_CUSTOMERS": 129,
-    "OUTAGE_CAUSE": "THRD PARTY",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1760785483000,
-    "OUTAGE_START_TEXT": "2025-10-17T23:03:57Z",
-    "LAST_UPDATE_TEXT": "2025-10-18T11:04:43Z",
-    "CURRENT_ETOR_TEXT": "2025-10-18T12:00:00Z"
-   },
-   "geometry": {
-    "x": -13251822.0297,
-    "y": 4209781.2312000021
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": 58348,
     "CURRENT_ETOR": 1760814000000,
     "OUTAGE_START": 1760742300000,
@@ -184,24 +166,6 @@
    "geometry": {
     "x": -13469546.4419,
     "y": 4463090.0705000013
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": 58505,
-    "CURRENT_ETOR": null,
-    "OUTAGE_START": 1760785615000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1760785618000,
-    "OUTAGE_START_TEXT": "2025-10-18T11:06:55Z",
-    "LAST_UPDATE_TEXT": "2025-10-18T11:06:58Z",
-    "CURRENT_ETOR_TEXT": null
-   },
-   "geometry": {
-    "x": -13324008.865600001,
-    "y": 4401998.6318000033
    }
   },
   {
