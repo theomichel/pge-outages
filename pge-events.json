@@ -80,24 +80,6 @@
  "features": [
   {
    "attributes": {
-    "OUTAGE_ID": 58882,
-    "CURRENT_ETOR": 1760871600000,
-    "OUTAGE_START": 1760829472000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "REPLCE SRVC",
-    "CREW_CURRENT_STATUS": "Crew Enroute",
-    "LAST_UPDATE": 1760858219000,
-    "OUTAGE_START_TEXT": "2025-10-18T23:17:52Z",
-    "LAST_UPDATE_TEXT": "2025-10-19T07:16:59Z",
-    "CURRENT_ETOR_TEXT": "2025-10-19T11:00:00Z"
-   },
-   "geometry": {
-    "x": -13574608.4098,
-    "y": 4453528.3579000011
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": 58932,
     "CURRENT_ETOR": 1760900400000,
     "OUTAGE_START": 1760837760000,
@@ -364,24 +346,6 @@
    "geometry": {
     "x": -13499649.361200001,
     "y": 4705836.4803000018
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": 59004,
-    "CURRENT_ETOR": 1760873400000,
-    "OUTAGE_START": 1760857330000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "PATROLLING",
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "LAST_UPDATE": 1760859403000,
-    "OUTAGE_START_TEXT": "2025-10-19T07:02:10Z",
-    "LAST_UPDATE_TEXT": "2025-10-19T07:36:43Z",
-    "CURRENT_ETOR_TEXT": "2025-10-19T11:30:00Z"
-   },
-   "geometry": {
-    "x": -13571183.253699999,
-    "y": 4480854.7260999978
    }
   },
   {
