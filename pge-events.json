@@ -98,24 +98,6 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": 66420,
-    "CURRENT_ETOR": 1761654600000,
-    "OUTAGE_START": 1761620040000,
-    "EST_CUSTOMERS": 3,
-    "OUTAGE_CAUSE": "THRD PARTY",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1761650906000,
-    "OUTAGE_START_TEXT": "2025-10-28T02:54:00Z",
-    "LAST_UPDATE_TEXT": "2025-10-28T11:28:26Z",
-    "CURRENT_ETOR_TEXT": "2025-10-28T12:30:00Z"
-   },
-   "geometry": {
-    "x": -13543880.077199999,
-    "y": 4656268.8615000024
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": 66502,
     "CURRENT_ETOR": 1761656400000,
     "OUTAGE_START": 1761650368000,
@@ -256,24 +238,6 @@
    "geometry": {
     "x": -13585653.5087,
     "y": 4604694.6525999978
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": 66488,
-    "CURRENT_ETOR": 1761657300000,
-    "OUTAGE_START": 1761645127000,
-    "EST_CUSTOMERS": 3,
-    "OUTAGE_CAUSE": "BRKN UG EQUIPMNT",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1761651084000,
-    "OUTAGE_START_TEXT": "2025-10-28T09:52:07Z",
-    "LAST_UPDATE_TEXT": "2025-10-28T11:31:24Z",
-    "CURRENT_ETOR_TEXT": "2025-10-28T13:15:00Z"
-   },
-   "geometry": {
-    "x": -13425136.2377,
-    "y": 4180317.4579999968
    }
   },
   {
