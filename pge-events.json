@@ -260,6 +260,24 @@
   },
   {
    "attributes": {
+    "OUTAGE_ID": 70118,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1761982913000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "LAST_UPDATE": 1761982916000,
+    "OUTAGE_START_TEXT": "2025-11-01T07:41:53Z",
+    "LAST_UPDATE_TEXT": "2025-11-01T07:41:56Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13571165.6809,
+    "y": 4582511.5935999975
+   }
+  },
+  {
+   "attributes": {
     "OUTAGE_ID": 70092,
     "CURRENT_ETOR": 1762011000000,
     "OUTAGE_START": 1761974462000,
@@ -368,33 +386,15 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": 70107,
-    "CURRENT_ETOR": 1762015500000,
-    "OUTAGE_START": 1761979415000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "PATROLLING",
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "LAST_UPDATE": 1761981749000,
-    "OUTAGE_START_TEXT": "2025-11-01T06:43:35Z",
-    "LAST_UPDATE_TEXT": "2025-11-01T07:22:29Z",
-    "CURRENT_ETOR_TEXT": "2025-11-01T16:45:00Z"
-   },
-   "geometry": {
-    "x": -13249245.8402,
-    "y": 4214400.4241999984
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": 70115,
     "CURRENT_ETOR": null,
     "OUTAGE_START": 1761982560000,
     "EST_CUSTOMERS": 199,
     "OUTAGE_CAUSE": null,
     "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1761982844000,
+    "LAST_UPDATE": 1761982943000,
     "OUTAGE_START_TEXT": "2025-11-01T07:36:00Z",
-    "LAST_UPDATE_TEXT": "2025-11-01T07:40:44Z",
+    "LAST_UPDATE_TEXT": "2025-11-01T07:42:23Z",
     "CURRENT_ETOR_TEXT": null
    },
    "geometry": {
@@ -567,7 +567,7 @@
   {
    "attributes": {
     "OUTAGE_ID": 70111,
-    "CURRENT_ETOR": null,
+    "CURRENT_ETOR": 1761997500000,
     "OUTAGE_START": 1761982126000,
     "EST_CUSTOMERS": 1,
     "OUTAGE_CAUSE": null,
@@ -575,7 +575,7 @@
     "LAST_UPDATE": 1761982360000,
     "OUTAGE_START_TEXT": "2025-11-01T07:28:46Z",
     "LAST_UPDATE_TEXT": "2025-11-01T07:32:40Z",
-    "CURRENT_ETOR_TEXT": null
+    "CURRENT_ETOR_TEXT": "2025-11-01T11:45:00Z"
    },
    "geometry": {
     "x": -13654935.610399999,
