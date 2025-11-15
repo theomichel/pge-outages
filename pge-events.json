@@ -182,26 +182,8 @@
     "CURRENT_ETOR_TEXT": "2025-11-15T12:30:00Z"
    },
    "geometry": {
-    "x": -13680739.739,
+    "x": -13680739.7389,
     "y": 4637113.4147000015
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": 83491,
-    "CURRENT_ETOR": 1763215200000,
-    "OUTAGE_START": 1763183806000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "DAMGE UG CABLE",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1763190535000,
-    "OUTAGE_START_TEXT": "2025-11-15T05:16:46Z",
-    "LAST_UPDATE_TEXT": "2025-11-15T07:08:55Z",
-    "CURRENT_ETOR_TEXT": "2025-11-15T14:00:00Z"
-   },
-   "geometry": {
-    "x": -13472852.3638,
-    "y": 4481634.0841000006
    }
   },
   {
@@ -355,7 +337,7 @@
     "OUTAGE_START": 1763201023000,
     "EST_CUSTOMERS": 26,
     "OUTAGE_CAUSE": "STORM",
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "CREW_CURRENT_STATUS": "T-Man On Site",
     "LAST_UPDATE": 1763205473000,
     "OUTAGE_START_TEXT": "2025-11-15T10:03:43Z",
     "LAST_UPDATE_TEXT": "2025-11-15T11:17:53Z",
@@ -868,6 +850,24 @@
    "geometry": {
     "x": -13547474.942600001,
     "y": 4458149.7079000026
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 83548,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1763206237000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1763206241000,
+    "OUTAGE_START_TEXT": "2025-11-15T11:30:37Z",
+    "LAST_UPDATE_TEXT": "2025-11-15T11:30:41Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13609561.5035,
+    "y": 4560256.3841999993
    }
   }
  ]
