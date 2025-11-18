@@ -499,7 +499,7 @@
     "OUTAGE_START": 1763447284000,
     "EST_CUSTOMERS": 1,
     "OUTAGE_CAUSE": "STORM",
-    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "CREW_CURRENT_STATUS": "T-Man On Site",
     "LAST_UPDATE": 1763447289000,
     "OUTAGE_START_TEXT": "2025-11-18T06:28:04Z",
     "LAST_UPDATE_TEXT": "2025-11-18T06:28:09Z",
@@ -553,7 +553,7 @@
     "OUTAGE_START": 1763448955000,
     "EST_CUSTOMERS": 1,
     "OUTAGE_CAUSE": "STORM",
-    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "CREW_CURRENT_STATUS": "T-Man On Site",
     "LAST_UPDATE": 1763448957000,
     "OUTAGE_START_TEXT": "2025-11-18T06:55:55Z",
     "LAST_UPDATE_TEXT": "2025-11-18T06:55:57Z",
@@ -562,6 +562,24 @@
    "geometry": {
     "x": -13574489.386599999,
     "y": 4495322.5182999969
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 86580,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1763451217000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1763451218000,
+    "OUTAGE_START_TEXT": "2025-11-18T07:33:37Z",
+    "LAST_UPDATE_TEXT": "2025-11-18T07:33:38Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13605683.3727,
+    "y": 4592703.1511000022
    }
   },
   {
@@ -706,6 +724,24 @@
    "geometry": {
     "x": -13407386.512800001,
     "y": 4155398.1327000037
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 86581,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1763451060000,
+    "EST_CUSTOMERS": 39,
+    "OUTAGE_CAUSE": "STORM",
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1763451464000,
+    "OUTAGE_START_TEXT": "2025-11-18T07:31:00Z",
+    "LAST_UPDATE_TEXT": "2025-11-18T07:37:44Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13654087.953,
+    "y": 4573376.5736000016
    }
   },
   {
@@ -1138,24 +1174,6 @@
    "geometry": {
     "x": -13541074.4078,
     "y": 4413425.877700001
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": 86272,
-    "CURRENT_ETOR": null,
-    "OUTAGE_START": 1763422467000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "DAMGE UG CABLE",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1763444073000,
-    "OUTAGE_START_TEXT": "2025-11-17T23:34:27Z",
-    "LAST_UPDATE_TEXT": "2025-11-18T05:34:33Z",
-    "CURRENT_ETOR_TEXT": null
-   },
-   "geometry": {
-    "x": -13303941.492800001,
-    "y": 4436603.6279999986
    }
   },
   {
