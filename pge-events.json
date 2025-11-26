@@ -260,30 +260,12 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": 93269,
-    "CURRENT_ETOR": 1764176400000,
-    "OUTAGE_START": 1764159306000,
-    "EST_CUSTOMERS": 22,
-    "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1764159607000,
-    "OUTAGE_START_TEXT": "2025-11-26T12:15:06Z",
-    "LAST_UPDATE_TEXT": "2025-11-26T12:20:07Z",
-    "CURRENT_ETOR_TEXT": "2025-11-26T17:00:00Z"
-   },
-   "geometry": {
-    "x": -13617392.6843,
-    "y": 4572927.8532999977
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": 93271,
     "CURRENT_ETOR": 1764170100000,
     "OUTAGE_START": 1764163195000,
     "EST_CUSTOMERS": 1,
     "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
     "LAST_UPDATE": 1764163235000,
     "OUTAGE_START_TEXT": "2025-11-26T13:19:55Z",
     "LAST_UPDATE_TEXT": "2025-11-26T13:20:35Z",
@@ -310,6 +292,24 @@
    "geometry": {
     "x": -13585653.5087,
     "y": 4604694.6525999978
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": 93273,
+    "CURRENT_ETOR": 1764188100000,
+    "OUTAGE_START": 1764165252000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "LAST_UPDATE": 1764165255000,
+    "OUTAGE_START_TEXT": "2025-11-26T13:54:12Z",
+    "LAST_UPDATE_TEXT": "2025-11-26T13:54:15Z",
+    "CURRENT_ETOR_TEXT": "2025-11-26T20:15:00Z"
+   },
+   "geometry": {
+    "x": -13289095.3244,
+    "y": 4376310.9240999967
    }
   },
   {
@@ -346,24 +346,6 @@
    "geometry": {
     "x": -13573694.408399999,
     "y": 4472423.7286999971
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": 93173,
-    "CURRENT_ETOR": 1764171000000,
-    "OUTAGE_START": 1764134495000,
-    "EST_CUSTOMERS": 22,
-    "OUTAGE_CAUSE": "EMERG REPAIRS",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1764163763000,
-    "OUTAGE_START_TEXT": "2025-11-26T05:21:35Z",
-    "LAST_UPDATE_TEXT": "2025-11-26T13:29:23Z",
-    "CURRENT_ETOR_TEXT": "2025-11-26T15:30:00Z"
-   },
-   "geometry": {
-    "x": -13571389.380899999,
-    "y": 4386328.8361999989
    }
   },
   {
