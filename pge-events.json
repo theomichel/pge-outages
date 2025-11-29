@@ -140,9 +140,9 @@
     "EST_CUSTOMERS": 13,
     "OUTAGE_CAUSE": null,
     "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1764410898000,
+    "LAST_UPDATE": 1764421245000,
     "OUTAGE_START_TEXT": "2025-11-29T06:01:41Z",
-    "LAST_UPDATE_TEXT": "2025-11-29T10:08:18Z",
+    "LAST_UPDATE_TEXT": "2025-11-29T13:00:45Z",
     "CURRENT_ETOR_TEXT": "2025-11-29T18:00:00Z"
    },
    "geometry": {
@@ -176,9 +176,9 @@
     "EST_CUSTOMERS": 1,
     "OUTAGE_CAUSE": null,
     "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1764399155000,
+    "LAST_UPDATE": 1764420755000,
     "OUTAGE_START_TEXT": "2025-11-29T06:52:29Z",
-    "LAST_UPDATE_TEXT": "2025-11-29T06:52:35Z",
+    "LAST_UPDATE_TEXT": "2025-11-29T12:52:35Z",
     "CURRENT_ETOR_TEXT": "2025-11-29T15:15:00Z"
    },
    "geometry": {
@@ -278,6 +278,24 @@
   },
   {
    "attributes": {
+    "OUTAGE_ID": 94555,
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1764421704000,
+    "EST_CUSTOMERS": 38,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1764421771000,
+    "OUTAGE_START_TEXT": "2025-11-29T13:08:24Z",
+    "LAST_UPDATE_TEXT": "2025-11-29T13:09:31Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13635528.554299999,
+    "y": 4537389.0925000012
+   }
+  },
+  {
+   "attributes": {
     "OUTAGE_ID": 94315,
     "CURRENT_ETOR": 1764403140000,
     "OUTAGE_START": 1764360750000,
@@ -364,24 +382,6 @@
    "geometry": {
     "x": -13633013.4915,
     "y": 4548259.2863000035
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": 94553,
-    "CURRENT_ETOR": 1764433800000,
-    "OUTAGE_START": 1764417613000,
-    "EST_CUSTOMERS": 16,
-    "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1764418180000,
-    "OUTAGE_START_TEXT": "2025-11-29T12:00:13Z",
-    "LAST_UPDATE_TEXT": "2025-11-29T12:09:40Z",
-    "CURRENT_ETOR_TEXT": "2025-11-29T16:30:00Z"
-   },
-   "geometry": {
-    "x": -13613168.1996,
-    "y": 4559371.7562000006
    }
   },
   {
