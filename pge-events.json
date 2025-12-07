@@ -118,15 +118,15 @@
   {
    "attributes": {
     "OUTAGE_ID": "100877",
-    "CURRENT_ETOR": null,
+    "CURRENT_ETOR": 1765111500000,
     "OUTAGE_START": 1765092516000,
     "EST_CUSTOMERS": 22,
     "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
     "LAST_UPDATE": 1765092521000,
     "OUTAGE_START_TEXT": "2025-12-07T07:28:36Z",
     "LAST_UPDATE_TEXT": "2025-12-07T07:28:41Z",
-    "CURRENT_ETOR_TEXT": null
+    "CURRENT_ETOR_TEXT": "2025-12-07T12:45:00Z"
    },
    "geometry": {
     "x": -13632889.4626,
@@ -167,24 +167,6 @@
    "geometry": {
     "x": -13582008.3762,
     "y": 4566950.2025000006
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": "100826",
-    "CURRENT_ETOR": 1765101600000,
-    "OUTAGE_START": 1765080600000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1765081498000,
-    "OUTAGE_START_TEXT": "2025-12-07T04:10:00Z",
-    "LAST_UPDATE_TEXT": "2025-12-07T04:24:58Z",
-    "CURRENT_ETOR_TEXT": "2025-12-07T10:00:00Z"
-   },
-   "geometry": {
-    "x": -13613335.4465,
-    "y": 4621689.4962000027
    }
   },
   {
@@ -275,24 +257,6 @@
    "geometry": {
     "x": -13658323.566300001,
     "y": 4626127.988499999
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": "100820",
-    "CURRENT_ETOR": 1765097100000,
-    "OUTAGE_START": 1765078483000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "PATROLLING",
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "LAST_UPDATE": 1765086501000,
-    "OUTAGE_START_TEXT": "2025-12-07T03:34:43Z",
-    "LAST_UPDATE_TEXT": "2025-12-07T05:48:21Z",
-    "CURRENT_ETOR_TEXT": "2025-12-07T08:45:00Z"
-   },
-   "geometry": {
-    "x": -13576945.682799999,
-    "y": 4584705.503700003
    }
   },
   {
@@ -428,7 +392,7 @@
     "OUTAGE_START": 1765078356000,
     "EST_CUSTOMERS": 1,
     "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
     "LAST_UPDATE": 1765078360000,
     "OUTAGE_START_TEXT": "2025-12-07T03:32:36Z",
     "LAST_UPDATE_TEXT": "2025-12-07T03:32:40Z",
@@ -509,6 +473,24 @@
    "geometry": {
     "x": -13569314.9629,
     "y": 4532550.8122000024
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "100878",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1765093560000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1765093578000,
+    "OUTAGE_START_TEXT": "2025-12-07T07:46:00Z",
+    "LAST_UPDATE_TEXT": "2025-12-07T07:46:18Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13342754.0568,
+    "y": 4429340.3654000014
    }
   },
   {
@@ -681,9 +663,9 @@
     "EST_CUSTOMERS": 1,
     "OUTAGE_CAUSE": "PLNND SHUTDOWN",
     "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1765087536000,
+    "LAST_UPDATE": 1765093659000,
     "OUTAGE_START_TEXT": "2025-12-07T06:00:00Z",
-    "LAST_UPDATE_TEXT": "2025-12-07T06:05:36Z",
+    "LAST_UPDATE_TEXT": "2025-12-07T07:47:39Z",
     "CURRENT_ETOR_TEXT": "2025-12-07T14:00:00Z"
    },
    "geometry": {
