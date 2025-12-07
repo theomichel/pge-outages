@@ -153,24 +153,6 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": "100823",
-    "CURRENT_ETOR": 1765100700000,
-    "OUTAGE_START": 1765080270000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "DAMGE UG CABLE",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1765092660000,
-    "OUTAGE_START_TEXT": "2025-12-07T04:04:30Z",
-    "LAST_UPDATE_TEXT": "2025-12-07T07:31:00Z",
-    "CURRENT_ETOR_TEXT": "2025-12-07T09:45:00Z"
-   },
-   "geometry": {
-    "x": -13582008.3762,
-    "y": 4566950.2025000006
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": "100863",
     "CURRENT_ETOR": 1765124100000,
     "OUTAGE_START": 1765087965000,
@@ -203,24 +185,6 @@
    "geometry": {
     "x": -13631006.6412,
     "y": 4546409.1089000031
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": "100870",
-    "CURRENT_ETOR": 1765123200000,
-    "OUTAGE_START": 1765090101000,
-    "EST_CUSTOMERS": 9,
-    "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1765090125000,
-    "OUTAGE_START_TEXT": "2025-12-07T06:48:21Z",
-    "LAST_UPDATE_TEXT": "2025-12-07T06:48:45Z",
-    "CURRENT_ETOR_TEXT": "2025-12-07T16:00:00Z"
-   },
-   "geometry": {
-    "x": -13812762.815299999,
-    "y": 4981745.561999999
    }
   },
   {
