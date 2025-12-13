@@ -189,6 +189,42 @@
   },
   {
    "attributes": {
+    "OUTAGE_ID": "105985",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1765615663000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1765615665000,
+    "OUTAGE_START_TEXT": "2025-12-13T08:47:43Z",
+    "LAST_UPDATE_TEXT": "2025-12-13T08:47:45Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13235151.5277,
+    "y": 4219554.5900000036
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "105987",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1765615668000,
+    "EST_CUSTOMERS": 3,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1765615671000,
+    "OUTAGE_START_TEXT": "2025-12-13T08:47:48Z",
+    "LAST_UPDATE_TEXT": "2025-12-13T08:47:51Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13238882.869100001,
+    "y": 4220633.6565999985
+   }
+  },
+  {
+   "attributes": {
     "OUTAGE_ID": "105853",
     "CURRENT_ETOR": 1765611000000,
     "OUTAGE_START": 1765588760000,
@@ -239,6 +275,24 @@
    "geometry": {
     "x": -13604399.4878,
     "y": 4491348.5289999992
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "105986",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1765615666000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1765615671000,
+    "OUTAGE_START_TEXT": "2025-12-13T08:47:46Z",
+    "LAST_UPDATE_TEXT": "2025-12-13T08:47:51Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13234552.1084,
+    "y": 4219501.8762999997
    }
   },
   {
@@ -473,6 +527,24 @@
    "geometry": {
     "x": -13568601.060699999,
     "y": 4383269.2546000034
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "105982",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1765615452000,
+    "EST_CUSTOMERS": 96,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1765615455000,
+    "OUTAGE_START_TEXT": "2025-12-13T08:44:12Z",
+    "LAST_UPDATE_TEXT": "2025-12-13T08:44:15Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13235055.171599999,
+    "y": 4217624.6388000026
    }
   }
  ]
