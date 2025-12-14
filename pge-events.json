@@ -195,9 +195,9 @@
     "EST_CUSTOMERS": 684,
     "OUTAGE_CAUSE": "THRD PARTY",
     "CREW_CURRENT_STATUS": "T-Man On Site",
-    "LAST_UPDATE": 1765707228000,
+    "LAST_UPDATE": 1765707833000,
     "OUTAGE_START_TEXT": "2025-12-14T09:11:56Z",
-    "LAST_UPDATE_TEXT": "2025-12-14T10:13:48Z",
+    "LAST_UPDATE_TEXT": "2025-12-14T10:23:53Z",
     "CURRENT_ETOR_TEXT": "2025-12-14T15:15:00Z"
    },
    "geometry": {
@@ -221,6 +221,24 @@
    "geometry": {
     "x": -13272865.238,
     "y": 4171106.1323999986
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "106525",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1765707950000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1765707951000,
+    "OUTAGE_START_TEXT": "2025-12-14T10:25:50Z",
+    "LAST_UPDATE_TEXT": "2025-12-14T10:25:51Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13641937.7578,
+    "y": 4582388.1677000001
    }
   },
   {
@@ -599,6 +617,24 @@
    "geometry": {
     "x": -13246018.2095,
     "y": 4215363.2013999969
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "106524",
+    "CURRENT_ETOR": 1765727100000,
+    "OUTAGE_START": 1765707560000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1765707564000,
+    "OUTAGE_START_TEXT": "2025-12-14T10:19:20Z",
+    "LAST_UPDATE_TEXT": "2025-12-14T10:19:24Z",
+    "CURRENT_ETOR_TEXT": "2025-12-14T15:45:00Z"
+   },
+   "geometry": {
+    "x": -13228554.485399999,
+    "y": 4219795.6407999992
    }
   }
  ]
