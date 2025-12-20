@@ -123,32 +123,14 @@
     "EST_CUSTOMERS": 152,
     "OUTAGE_CAUSE": "THRD PARTY",
     "CREW_CURRENT_STATUS": "T-Man On Site",
-    "LAST_UPDATE": 1766238852000,
+    "LAST_UPDATE": 1766240955000,
     "OUTAGE_START_TEXT": "2025-12-20T13:45:00Z",
-    "LAST_UPDATE_TEXT": "2025-12-20T13:54:12Z",
+    "LAST_UPDATE_TEXT": "2025-12-20T14:29:15Z",
     "CURRENT_ETOR_TEXT": "2025-12-20T19:45:00Z"
    },
    "geometry": {
     "x": -13631571.5483,
     "y": 4936866.7353999987
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": "110702",
-    "CURRENT_ETOR": 1766246400000,
-    "OUTAGE_START": 1766195483000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "EMERG REPAIRS",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1766239068000,
-    "OUTAGE_START_TEXT": "2025-12-20T01:51:23Z",
-    "LAST_UPDATE_TEXT": "2025-12-20T13:57:48Z",
-    "CURRENT_ETOR_TEXT": "2025-12-20T16:00:00Z"
-   },
-   "geometry": {
-    "x": -13336075.552299999,
-    "y": 4357255.0209000036
    }
   },
   {
@@ -261,6 +243,24 @@
   },
   {
    "attributes": {
+    "OUTAGE_ID": "110839",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1766240581000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1766240586000,
+    "OUTAGE_START_TEXT": "2025-12-20T14:23:01Z",
+    "LAST_UPDATE_TEXT": "2025-12-20T14:23:06Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13531400.4509,
+    "y": 4449019.6957999989
+   }
+  },
+  {
+   "attributes": {
     "OUTAGE_ID": "110754",
     "CURRENT_ETOR": 1766244600000,
     "OUTAGE_START": 1766201192000,
@@ -293,24 +293,6 @@
    "geometry": {
     "x": -13611451.7848,
     "y": 4552752.2800000012
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": "110813",
-    "CURRENT_ETOR": 1766242800000,
-    "OUTAGE_START": 1766222827000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "T-Man Enroute",
-    "LAST_UPDATE": 1766223624000,
-    "OUTAGE_START_TEXT": "2025-12-20T09:27:07Z",
-    "LAST_UPDATE_TEXT": "2025-12-20T09:40:24Z",
-    "CURRENT_ETOR_TEXT": "2025-12-20T15:00:00Z"
-   },
-   "geometry": {
-    "x": -13251045.670400001,
-    "y": 4220792.9773000032
    }
   },
   {
