@@ -207,6 +207,24 @@
   },
   {
    "attributes": {
+    "OUTAGE_ID": "114588",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1766497395000,
+    "EST_CUSTOMERS": 12,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1766497422000,
+    "OUTAGE_START_TEXT": "2025-12-23T13:43:15Z",
+    "LAST_UPDATE_TEXT": "2025-12-23T13:43:42Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13505006.7896,
+    "y": 4701942.3887000009
+   }
+  },
+  {
+   "attributes": {
     "OUTAGE_ID": "114482",
     "CURRENT_ETOR": 1766514600000,
     "OUTAGE_START": 1766461209000,
@@ -320,7 +338,7 @@
     "OUTAGE_START": 1766495533000,
     "EST_CUSTOMERS": 1,
     "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
     "LAST_UPDATE": 1766495536000,
     "OUTAGE_START_TEXT": "2025-12-23T13:12:13Z",
     "LAST_UPDATE_TEXT": "2025-12-23T13:12:16Z",
@@ -334,7 +352,7 @@
   {
    "attributes": {
     "OUTAGE_ID": "114587",
-    "CURRENT_ETOR": null,
+    "CURRENT_ETOR": 1766516400000,
     "OUTAGE_START": 1766496124000,
     "EST_CUSTOMERS": 1,
     "OUTAGE_CAUSE": null,
@@ -342,7 +360,7 @@
     "LAST_UPDATE": 1766496127000,
     "OUTAGE_START_TEXT": "2025-12-23T13:22:04Z",
     "LAST_UPDATE_TEXT": "2025-12-23T13:22:07Z",
-    "CURRENT_ETOR_TEXT": null
+    "CURRENT_ETOR_TEXT": "2025-12-23T19:00:00Z"
    },
    "geometry": {
     "x": -13635090.770199999,
@@ -491,6 +509,24 @@
    "geometry": {
     "x": -13563710.794500001,
     "y": 4480236.6648999974
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "114589",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1766497492000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1766497495000,
+    "OUTAGE_START_TEXT": "2025-12-23T13:44:52Z",
+    "LAST_UPDATE_TEXT": "2025-12-23T13:44:55Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13563085.0844,
+    "y": 4479886.9981999993
    }
   },
   {
