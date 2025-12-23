@@ -189,6 +189,42 @@
   },
   {
    "attributes": {
+    "OUTAGE_ID": "114552",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1766486881000,
+    "EST_CUSTOMERS": 27,
+    "OUTAGE_CAUSE": "STORM",
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1766486912000,
+    "OUTAGE_START_TEXT": "2025-12-23T10:48:01Z",
+    "LAST_UPDATE_TEXT": "2025-12-23T10:48:32Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13584588.973099999,
+    "y": 4615160.8400000036
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "114553",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1766486939000,
+    "EST_CUSTOMERS": 5,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1766487151000,
+    "OUTAGE_START_TEXT": "2025-12-23T10:48:59Z",
+    "LAST_UPDATE_TEXT": "2025-12-23T10:52:31Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13581154.088199999,
+    "y": 4582973.9694000036
+   }
+  },
+  {
+   "attributes": {
     "OUTAGE_ID": "114482",
     "CURRENT_ETOR": 1766496600000,
     "OUTAGE_START": 1766461209000,
@@ -267,9 +303,9 @@
     "EST_CUSTOMERS": 61,
     "OUTAGE_CAUSE": "NG CONNECTION",
     "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1766481561000,
+    "LAST_UPDATE": 1766487128000,
     "OUTAGE_START_TEXT": "2025-12-23T03:06:42Z",
-    "LAST_UPDATE_TEXT": "2025-12-23T09:19:21Z",
+    "LAST_UPDATE_TEXT": "2025-12-23T10:52:08Z",
     "CURRENT_ETOR_TEXT": "2025-12-23T11:15:00Z"
    },
    "geometry": {
@@ -365,24 +401,6 @@
    "geometry": {
     "x": -13610754.811799999,
     "y": 4551693.9703999981
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": "114430",
-    "CURRENT_ETOR": 1766491200000,
-    "OUTAGE_START": 1766451900000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "BRKN POLE EQUIPMNT",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1766486266000,
-    "OUTAGE_START_TEXT": "2025-12-23T01:05:00Z",
-    "LAST_UPDATE_TEXT": "2025-12-23T10:37:46Z",
-    "CURRENT_ETOR_TEXT": "2025-12-23T12:00:00Z"
-   },
-   "geometry": {
-    "x": -13498096.283300001,
-    "y": 4592541.4584000036
    }
   },
   {
