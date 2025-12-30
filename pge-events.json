@@ -693,24 +693,6 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": "133344",
-    "CURRENT_ETOR": 1767101820000,
-    "OUTAGE_START": 1767020515000,
-    "EST_CUSTOMERS": 12,
-    "OUTAGE_CAUSE": "NG CONNECTION",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1767072708000,
-    "OUTAGE_START_TEXT": "2025-12-29T15:01:55Z",
-    "LAST_UPDATE_TEXT": "2025-12-30T05:31:48Z",
-    "CURRENT_ETOR_TEXT": "2025-12-30T13:37:00Z"
-   },
-   "geometry": {
-    "x": -13332929.3204,
-    "y": 4404507.0939000025
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": "133717",
     "CURRENT_ETOR": null,
     "OUTAGE_START": 1767036912000,
@@ -959,24 +941,6 @@
    "geometry": {
     "x": -13335471.7531,
     "y": 4426243.1634000018
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": "134136",
-    "CURRENT_ETOR": 1767099600000,
-    "OUTAGE_START": 1767058532000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "DAMGE UG CABLE",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1767084560000,
-    "OUTAGE_START_TEXT": "2025-12-30T01:35:32Z",
-    "LAST_UPDATE_TEXT": "2025-12-30T08:49:20Z",
-    "CURRENT_ETOR_TEXT": "2025-12-30T13:00:00Z"
-   },
-   "geometry": {
-    "x": -13399582.4671,
-    "y": 4319363.0019999966
    }
   },
   {
