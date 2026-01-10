@@ -212,7 +212,7 @@
     "OUTAGE_START": 1768043080000,
     "EST_CUSTOMERS": 7,
     "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
     "LAST_UPDATE": 1768044308000,
     "OUTAGE_START_TEXT": "2026-01-10T11:04:40Z",
     "LAST_UPDATE_TEXT": "2026-01-10T11:25:08Z",
@@ -239,6 +239,24 @@
    "geometry": {
     "x": -13418364.221799999,
     "y": 4766068.8716999963
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "144297",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1768044609000,
+    "EST_CUSTOMERS": 9,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1768044945000,
+    "OUTAGE_START_TEXT": "2026-01-10T11:30:09Z",
+    "LAST_UPDATE_TEXT": "2026-01-10T11:35:45Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13581216.126699999,
+    "y": 4629228.2727999985
    }
   },
   {
