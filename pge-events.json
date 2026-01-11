@@ -123,9 +123,9 @@
     "EST_CUSTOMERS": 1,
     "OUTAGE_CAUSE": null,
     "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1768123897000,
+    "LAST_UPDATE": 1768141376000,
     "OUTAGE_START_TEXT": "2026-01-11T08:23:01Z",
-    "LAST_UPDATE_TEXT": "2026-01-11T09:31:37Z",
+    "LAST_UPDATE_TEXT": "2026-01-11T14:22:56Z",
     "CURRENT_ETOR_TEXT": "2026-01-11T15:00:00Z"
    },
    "geometry": {
@@ -280,7 +280,7 @@
   {
    "attributes": {
     "OUTAGE_ID": "144882",
-    "CURRENT_ETOR": null,
+    "CURRENT_ETOR": 1768153500000,
     "OUTAGE_START": 1768140198000,
     "EST_CUSTOMERS": 1,
     "OUTAGE_CAUSE": null,
@@ -288,7 +288,7 @@
     "LAST_UPDATE": 1768140202000,
     "OUTAGE_START_TEXT": "2026-01-11T14:03:18Z",
     "LAST_UPDATE_TEXT": "2026-01-11T14:03:22Z",
-    "CURRENT_ETOR_TEXT": null
+    "CURRENT_ETOR_TEXT": "2026-01-11T17:45:00Z"
    },
    "geometry": {
     "x": -13560057.9893,
@@ -441,24 +441,6 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": "144834",
-    "CURRENT_ETOR": 1768161600000,
-    "OUTAGE_START": 1768112703000,
-    "EST_CUSTOMERS": 11,
-    "OUTAGE_CAUSE": "PATROLLING",
-    "CREW_CURRENT_STATUS": "Awaiting Crew",
-    "LAST_UPDATE": 1768131519000,
-    "OUTAGE_START_TEXT": "2026-01-11T06:25:03Z",
-    "LAST_UPDATE_TEXT": "2026-01-11T11:38:39Z",
-    "CURRENT_ETOR_TEXT": "2026-01-11T20:00:00Z"
-   },
-   "geometry": {
-    "x": -13619908.691500001,
-    "y": 4512057.2388999984
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": "144866",
     "CURRENT_ETOR": 1768142700000,
     "OUTAGE_START": 1768125541000,
@@ -527,6 +509,24 @@
    "geometry": {
     "x": -13611511.3289,
     "y": 4552477.3342999965
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "144883",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1768141234000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1768141238000,
+    "OUTAGE_START_TEXT": "2026-01-11T14:20:34Z",
+    "LAST_UPDATE_TEXT": "2026-01-11T14:20:38Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13599176.957899999,
+    "y": 4541331.1507000029
    }
   },
   {
