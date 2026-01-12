@@ -81,33 +81,15 @@
  "features": [
   {
    "attributes": {
-    "OUTAGE_ID": "145048",
-    "CURRENT_ETOR": 1768230900000,
-    "OUTAGE_START": 1768169346000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "BRKN UG EQUIPMNT",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1768202856000,
-    "OUTAGE_START_TEXT": "2026-01-11T22:09:06Z",
-    "LAST_UPDATE_TEXT": "2026-01-12T07:27:36Z",
-    "CURRENT_ETOR_TEXT": "2026-01-12T15:15:00Z"
-   },
-   "geometry": {
-    "x": -13477385.125799999,
-    "y": 4552799.4813999981
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": "145251",
     "CURRENT_ETOR": 1768238100000,
     "OUTAGE_START": 1768224668000,
     "EST_CUSTOMERS": 106,
     "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1768225511000,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "LAST_UPDATE": 1768229089000,
     "OUTAGE_START_TEXT": "2026-01-12T13:31:08Z",
-    "LAST_UPDATE_TEXT": "2026-01-12T13:45:11Z",
+    "LAST_UPDATE_TEXT": "2026-01-12T14:44:49Z",
     "CURRENT_ETOR_TEXT": "2026-01-12T17:15:00Z"
    },
    "geometry": {
@@ -135,38 +117,38 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": "145261",
-    "CURRENT_ETOR": null,
-    "OUTAGE_START": 1768228153000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1768228156000,
-    "OUTAGE_START_TEXT": "2026-01-12T14:29:13Z",
-    "LAST_UPDATE_TEXT": "2026-01-12T14:29:16Z",
-    "CURRENT_ETOR_TEXT": null
-   },
-   "geometry": {
-    "x": -13247905.3256,
-    "y": 4215442.0920000002
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": "145262",
-    "CURRENT_ETOR": null,
+    "CURRENT_ETOR": 1768257900000,
     "OUTAGE_START": 1768228406000,
     "EST_CUSTOMERS": 1,
     "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1768228411000,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "LAST_UPDATE": 1768229005000,
     "OUTAGE_START_TEXT": "2026-01-12T14:33:26Z",
-    "LAST_UPDATE_TEXT": "2026-01-12T14:33:31Z",
-    "CURRENT_ETOR_TEXT": null
+    "LAST_UPDATE_TEXT": "2026-01-12T14:43:25Z",
+    "CURRENT_ETOR_TEXT": "2026-01-12T22:45:00Z"
    },
    "geometry": {
     "x": -13555580.1295,
     "y": 4432292.2867000028
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "145266",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1768229317000,
+    "EST_CUSTOMERS": 2,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1768229333000,
+    "OUTAGE_START_TEXT": "2026-01-12T14:48:37Z",
+    "LAST_UPDATE_TEXT": "2026-01-12T14:48:53Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13604776.387699999,
+    "y": 4736812.1054999977
    }
   },
   {
@@ -221,6 +203,24 @@
    "geometry": {
     "x": -13538193.029899999,
     "y": 4455430.4526999965
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "145267",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1768229205000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1768229333000,
+    "OUTAGE_START_TEXT": "2026-01-12T14:46:45Z",
+    "LAST_UPDATE_TEXT": "2026-01-12T14:48:53Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13603847.645,
+    "y": 4736674.0357000008
    }
   },
   {
@@ -321,9 +321,9 @@
     "EST_CUSTOMERS": 377,
     "OUTAGE_CAUSE": "CAR POLE",
     "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1768226768000,
+    "LAST_UPDATE": 1768229551000,
     "OUTAGE_START_TEXT": "2026-01-12T07:14:00Z",
-    "LAST_UPDATE_TEXT": "2026-01-12T14:06:08Z",
+    "LAST_UPDATE_TEXT": "2026-01-12T14:52:31Z",
     "CURRENT_ETOR_TEXT": "2026-01-13T00:00:00Z"
    },
    "geometry": {
@@ -337,11 +337,11 @@
     "CURRENT_ETOR": 1768233600000,
     "OUTAGE_START": 1768204573000,
     "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "T-Man Enroute",
-    "LAST_UPDATE": 1768226165000,
+    "OUTAGE_CAUSE": "PATROLLING",
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "LAST_UPDATE": 1768228842000,
     "OUTAGE_START_TEXT": "2026-01-12T07:56:13Z",
-    "LAST_UPDATE_TEXT": "2026-01-12T13:56:05Z",
+    "LAST_UPDATE_TEXT": "2026-01-12T14:40:42Z",
     "CURRENT_ETOR_TEXT": "2026-01-12T16:00:00Z"
    },
    "geometry": {
@@ -441,6 +441,24 @@
   },
   {
    "attributes": {
+    "OUTAGE_ID": "145265",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1768229118000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1768229119000,
+    "OUTAGE_START_TEXT": "2026-01-12T14:45:18Z",
+    "LAST_UPDATE_TEXT": "2026-01-12T14:45:19Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13561769.153200001,
+    "y": 4492795.3096000031
+   }
+  },
+  {
+   "attributes": {
     "OUTAGE_ID": "145253",
     "CURRENT_ETOR": 1768239000000,
     "OUTAGE_START": 1768225238000,
@@ -460,19 +478,37 @@
   {
    "attributes": {
     "OUTAGE_ID": "145263",
-    "CURRENT_ETOR": null,
+    "CURRENT_ETOR": 1768244400000,
     "OUTAGE_START": 1768233600000,
     "EST_CUSTOMERS": 5,
     "OUTAGE_CAUSE": null,
     "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1768228521000,
+    "LAST_UPDATE": 1768229333000,
     "OUTAGE_START_TEXT": "2026-01-12T16:00:00Z",
-    "LAST_UPDATE_TEXT": "2026-01-12T14:35:21Z",
-    "CURRENT_ETOR_TEXT": null
+    "LAST_UPDATE_TEXT": "2026-01-12T14:48:53Z",
+    "CURRENT_ETOR_TEXT": "2026-01-12T19:00:00Z"
    },
    "geometry": {
     "x": -13507828.106699999,
     "y": 4704175.2599000037
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "145264",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1768228962000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1768228964000,
+    "OUTAGE_START_TEXT": "2026-01-12T14:42:42Z",
+    "LAST_UPDATE_TEXT": "2026-01-12T14:42:44Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13580845.060699999,
+    "y": 4553379.179399997
    }
   }
  ]
