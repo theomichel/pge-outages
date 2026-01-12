@@ -99,24 +99,6 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": "145191",
-    "CURRENT_ETOR": 1768222800000,
-    "OUTAGE_START": 1768196885000,
-    "EST_CUSTOMERS": 9,
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1768216635000,
-    "OUTAGE_START_TEXT": "2026-01-12T05:48:05Z",
-    "LAST_UPDATE_TEXT": "2026-01-12T11:17:15Z",
-    "CURRENT_ETOR_TEXT": "2026-01-12T13:00:00Z"
-   },
-   "geometry": {
-    "x": -13578801.271,
-    "y": 4547767.8937999979
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": "145211",
     "CURRENT_ETOR": 1768233600000,
     "OUTAGE_START": 1768201611000,
@@ -185,24 +167,6 @@
    "geometry": {
     "x": -13610500.740800001,
     "y": 4600993.050499998
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": "145107",
-    "CURRENT_ETOR": 1768207500000,
-    "OUTAGE_START": 1768181995000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "REPLCE SRVC",
-    "CREW_CURRENT_STATUS": "Awaiting Crew",
-    "LAST_UPDATE": 1768182368000,
-    "OUTAGE_START_TEXT": "2026-01-12T01:39:55Z",
-    "LAST_UPDATE_TEXT": "2026-01-12T01:46:08Z",
-    "CURRENT_ETOR_TEXT": "2026-01-12T08:45:00Z"
-   },
-   "geometry": {
-    "x": -13337846.194699999,
-    "y": 4407838.1921999976
    }
   },
   {
@@ -347,24 +311,6 @@
    "geometry": {
     "x": -13587854.860100001,
     "y": 4564659.4195000008
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": "145239",
-    "CURRENT_ETOR": 1768233600000,
-    "OUTAGE_START": 1768213512000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "PATROLLING",
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "LAST_UPDATE": 1768215006000,
-    "OUTAGE_START_TEXT": "2026-01-12T10:25:12Z",
-    "LAST_UPDATE_TEXT": "2026-01-12T10:50:06Z",
-    "CURRENT_ETOR_TEXT": "2026-01-12T16:00:00Z"
-   },
-   "geometry": {
-    "x": -13606336.172800001,
-    "y": 4549755.1096000001
    }
   },
   {
