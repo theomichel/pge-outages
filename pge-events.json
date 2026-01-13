@@ -117,24 +117,6 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": "146142",
-    "CURRENT_ETOR": 1768316340000,
-    "OUTAGE_START": 1768276980000,
-    "EST_CUSTOMERS": 18,
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1768301962000,
-    "OUTAGE_START_TEXT": "2026-01-13T04:03:00Z",
-    "LAST_UPDATE_TEXT": "2026-01-13T10:59:22Z",
-    "CURRENT_ETOR_TEXT": "2026-01-13T14:59:00Z"
-   },
-   "geometry": {
-    "x": -13635809.977600001,
-    "y": 4549372.1383000016
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": "146144",
     "CURRENT_ETOR": 1768314600000,
     "OUTAGE_START": 1768277918000,
@@ -149,24 +131,6 @@
    "geometry": {
     "x": -13570554.293299999,
     "y": 4598090.0967999995
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": "146169",
-    "CURRENT_ETOR": 1768304700000,
-    "OUTAGE_START": 1768284615000,
-    "EST_CUSTOMERS": 12,
-    "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1768284849000,
-    "OUTAGE_START_TEXT": "2026-01-13T06:10:15Z",
-    "LAST_UPDATE_TEXT": "2026-01-13T06:14:09Z",
-    "CURRENT_ETOR_TEXT": "2026-01-13T11:45:00Z"
-   },
-   "geometry": {
-    "x": -13608561.5275,
-    "y": 4597315.4377000034
    }
   },
   {
@@ -383,6 +347,42 @@
    "geometry": {
     "x": -13604205.6688,
     "y": 4492395.1062000021
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "146216",
+    "CURRENT_ETOR": 1768325400000,
+    "OUTAGE_START": 1768302780000,
+    "EST_CUSTOMERS": 3033,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "LAST_UPDATE": 1768304056000,
+    "OUTAGE_START_TEXT": "2026-01-13T11:13:00Z",
+    "LAST_UPDATE_TEXT": "2026-01-13T11:34:16Z",
+    "CURRENT_ETOR_TEXT": "2026-01-13T17:30:00Z"
+   },
+   "geometry": {
+    "x": -13518095.500500001,
+    "y": 4790528.3832999989
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "146219",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1768303260000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1768303292000,
+    "OUTAGE_START_TEXT": "2026-01-13T11:21:00Z",
+    "LAST_UPDATE_TEXT": "2026-01-13T11:21:32Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13529211.221000001,
+    "y": 4792415.438500002
    }
   },
   {
