@@ -6927,9 +6927,9 @@
     "EST_CUSTOMERS": 68,
     "OUTAGE_CAUSE": "STORM",
     "CREW_CURRENT_STATUS": "T-Man Enroute",
-    "LAST_UPDATE": 1771673337000,
+    "LAST_UPDATE": 1771673717000,
     "OUTAGE_START_TEXT": "2026-02-21T11:23:19Z",
-    "LAST_UPDATE_TEXT": "2026-02-21T11:28:57Z",
+    "LAST_UPDATE_TEXT": "2026-02-21T11:35:17Z",
     "CURRENT_ETOR_TEXT": null
    },
    "geometry": {
@@ -10625,6 +10625,24 @@
    "geometry": {
     "x": -13570130.1392,
     "y": 4496923.9679000005
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "180687",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1771673719000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1771673722000,
+    "OUTAGE_START_TEXT": "2026-02-21T11:35:19Z",
+    "LAST_UPDATE_TEXT": "2026-02-21T11:35:22Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13612847.6809,
+    "y": 4559890.8242999986
    }
   },
   {
