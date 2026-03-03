@@ -81,34 +81,16 @@
  "features": [
   {
    "attributes": {
-    "OUTAGE_ID": "188041",
-    "CURRENT_ETOR": 1772533800000,
-    "OUTAGE_START": 1772492472000,
-    "EST_CUSTOMERS": 15,
-    "OUTAGE_CAUSE": "THRD PARTY",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1772507879000,
-    "OUTAGE_START_TEXT": "2026-03-02T23:01:12Z",
-    "LAST_UPDATE_TEXT": "2026-03-03T03:17:59Z",
-    "CURRENT_ETOR_TEXT": "2026-03-03T10:30:00Z"
-   },
-   "geometry": {
-    "x": -13582329.8653,
-    "y": 4624694.1770000011
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": "188098",
-    "CURRENT_ETOR": 1772530200000,
+    "CURRENT_ETOR": 1772535600000,
     "OUTAGE_START": 1772497771000,
     "EST_CUSTOMERS": 18,
     "OUTAGE_CAUSE": "DAMGE UG CABLE",
     "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1772522846000,
+    "LAST_UPDATE": 1772527627000,
     "OUTAGE_START_TEXT": "2026-03-03T00:29:31Z",
-    "LAST_UPDATE_TEXT": "2026-03-03T07:27:26Z",
-    "CURRENT_ETOR_TEXT": "2026-03-03T09:30:00Z"
+    "LAST_UPDATE_TEXT": "2026-03-03T08:47:07Z",
+    "CURRENT_ETOR_TEXT": "2026-03-03T11:00:00Z"
    },
    "geometry": {
     "x": -13549684.193300001,
@@ -135,24 +117,6 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": "188228",
-    "CURRENT_ETOR": 1772536500000,
-    "OUTAGE_START": 1772520446000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "PATROLLING",
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "LAST_UPDATE": 1772524430000,
-    "OUTAGE_START_TEXT": "2026-03-03T06:47:26Z",
-    "LAST_UPDATE_TEXT": "2026-03-03T07:53:50Z",
-    "CURRENT_ETOR_TEXT": "2026-03-03T11:15:00Z"
-   },
-   "geometry": {
-    "x": -13614593.214499999,
-    "y": 4564063.9817999974
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": "188238",
     "CURRENT_ETOR": 1772548200000,
     "OUTAGE_START": 1772523290000,
@@ -167,6 +131,24 @@
    "geometry": {
     "x": -13556686.7366,
     "y": 4418526.0606999993
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "188246",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1772529273000,
+    "EST_CUSTOMERS": 146,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1772529485000,
+    "OUTAGE_START_TEXT": "2026-03-03T09:14:33Z",
+    "LAST_UPDATE_TEXT": "2026-03-03T09:18:05Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13579254.189300001,
+    "y": 4706428.561300002
    }
   },
   {
@@ -257,24 +239,6 @@
    "geometry": {
     "x": -13241684.292199999,
     "y": 4216437.1338
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": "188227",
-    "CURRENT_ETOR": 1772533800000,
-    "OUTAGE_START": 1772519405000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "BRKN UG EQUIPMNT",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1772520388000,
-    "OUTAGE_START_TEXT": "2026-03-03T06:30:05Z",
-    "LAST_UPDATE_TEXT": "2026-03-03T06:46:28Z",
-    "CURRENT_ETOR_TEXT": "2026-03-03T10:30:00Z"
-   },
-   "geometry": {
-    "x": -13250882.782400001,
-    "y": 4221822.5151999965
    }
   },
   {
@@ -401,6 +365,24 @@
    "geometry": {
     "x": -13580682.484299999,
     "y": 4613955.8418999985
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "188245",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1772528637000,
+    "EST_CUSTOMERS": 12,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "LAST_UPDATE": 1772528790000,
+    "OUTAGE_START_TEXT": "2026-03-03T09:03:57Z",
+    "LAST_UPDATE_TEXT": "2026-03-03T09:06:30Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13538410.146,
+    "y": 4651273.5050000027
    }
   },
   {
@@ -545,24 +527,6 @@
    "geometry": {
     "x": -13277607.098299999,
     "y": 4166210.1093999967
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": "188217",
-    "CURRENT_ETOR": 1772546400000,
-    "OUTAGE_START": 1772514815000,
-    "EST_CUSTOMERS": 17,
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1772515189000,
-    "OUTAGE_START_TEXT": "2026-03-03T05:13:35Z",
-    "LAST_UPDATE_TEXT": "2026-03-03T05:19:49Z",
-    "CURRENT_ETOR_TEXT": "2026-03-03T14:00:00Z"
-   },
-   "geometry": {
-    "x": -13431923.0362,
-    "y": 4200887.992899999
    }
   },
   {
