@@ -153,24 +153,6 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": "202834",
-    "CURRENT_ETOR": 1774180800000,
-    "OUTAGE_START": 1774164255000,
-    "EST_CUSTOMERS": 6,
-    "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1774170446000,
-    "OUTAGE_START_TEXT": "2026-03-22T07:24:15Z",
-    "LAST_UPDATE_TEXT": "2026-03-22T09:07:26Z",
-    "CURRENT_ETOR_TEXT": "2026-03-22T12:00:00Z"
-   },
-   "geometry": {
-    "x": -13590605.546500001,
-    "y": 4531442.5472000018
-   }
-  },
-  {
-   "attributes": {
     "OUTAGE_ID": "202853",
     "CURRENT_ETOR": 1774189800000,
     "OUTAGE_START": 1774176921000,
@@ -212,15 +194,33 @@
     "OUTAGE_START": 1774175319000,
     "EST_CUSTOMERS": 96,
     "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1774178429000,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "LAST_UPDATE": 1774179056000,
     "OUTAGE_START_TEXT": "2026-03-22T10:28:39Z",
-    "LAST_UPDATE_TEXT": "2026-03-22T11:20:29Z",
+    "LAST_UPDATE_TEXT": "2026-03-22T11:30:56Z",
     "CURRENT_ETOR_TEXT": "2026-03-22T15:30:00Z"
    },
    "geometry": {
     "x": -13589702.297499999,
     "y": 4560261.7828999981
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "202856",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1774179868000,
+    "EST_CUSTOMERS": 12,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1774179886000,
+    "OUTAGE_START_TEXT": "2026-03-22T11:44:28Z",
+    "LAST_UPDATE_TEXT": "2026-03-22T11:44:46Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13641052.1568,
+    "y": 4579186.0705000013
    }
   },
   {
@@ -311,24 +311,6 @@
    "geometry": {
     "x": -13508987.9553,
     "y": 4582185.8562999964
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": "202854",
-    "CURRENT_ETOR": null,
-    "OUTAGE_START": 1774178565000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1774178567000,
-    "OUTAGE_START_TEXT": "2026-03-22T11:22:45Z",
-    "LAST_UPDATE_TEXT": "2026-03-22T11:22:47Z",
-    "CURRENT_ETOR_TEXT": null
-   },
-   "geometry": {
-    "x": -13335159.01,
-    "y": 4413394.366899997
    }
   },
   {
