@@ -135,6 +135,24 @@
   },
   {
    "attributes": {
+    "OUTAGE_ID": "207482",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1774695763000,
+    "EST_CUSTOMERS": 1645,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1774696143000,
+    "OUTAGE_START_TEXT": "2026-03-28T11:02:43Z",
+    "LAST_UPDATE_TEXT": "2026-03-28T11:09:03Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13560090.614399999,
+    "y": 4675383.4355999976
+   }
+  },
+  {
+   "attributes": {
     "OUTAGE_ID": "207131",
     "CURRENT_ETOR": 1774652400000,
     "OUTAGE_START": 1774623900000,
@@ -189,20 +207,20 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": "207470",
-    "CURRENT_ETOR": 1774720800000,
-    "OUTAGE_START": 1774686843000,
-    "EST_CUSTOMERS": 15,
-    "OUTAGE_CAUSE": "PATROLLING",
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "LAST_UPDATE": 1774690879000,
-    "OUTAGE_START_TEXT": "2026-03-28T08:34:03Z",
-    "LAST_UPDATE_TEXT": "2026-03-28T09:41:19Z",
-    "CURRENT_ETOR_TEXT": "2026-03-28T18:00:00Z"
+    "OUTAGE_ID": "207490",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1774695694000,
+    "EST_CUSTOMERS": 2878,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1774696158000,
+    "OUTAGE_START_TEXT": "2026-03-28T11:01:34Z",
+    "LAST_UPDATE_TEXT": "2026-03-28T11:09:18Z",
+    "CURRENT_ETOR_TEXT": null
    },
    "geometry": {
-    "x": -13605399.2908,
-    "y": 4557185.6545000002
+    "x": -13555795.266800001,
+    "y": 4673653.9673999995
    }
   },
   {
@@ -221,24 +239,6 @@
    "geometry": {
     "x": -13314232.1578,
     "y": 4381435.4043999985
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": "207316",
-    "CURRENT_ETOR": 1774698300000,
-    "OUTAGE_START": 1774654906000,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": "PATROLLING",
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "LAST_UPDATE": 1774691041000,
-    "OUTAGE_START_TEXT": "2026-03-27T23:41:46Z",
-    "LAST_UPDATE_TEXT": "2026-03-28T09:44:01Z",
-    "CURRENT_ETOR_TEXT": "2026-03-28T11:45:00Z"
-   },
-   "geometry": {
-    "x": -13488679.8366,
-    "y": 4584011.2084000036
    }
   },
   {
@@ -265,11 +265,11 @@
     "CURRENT_ETOR": 1774729800000,
     "OUTAGE_START": 1774693456000,
     "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "T-Man Enroute",
-    "LAST_UPDATE": 1774693701000,
+    "OUTAGE_CAUSE": "PATROLLING",
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "LAST_UPDATE": 1774695827000,
     "OUTAGE_START_TEXT": "2026-03-28T10:24:16Z",
-    "LAST_UPDATE_TEXT": "2026-03-28T10:28:21Z",
+    "LAST_UPDATE_TEXT": "2026-03-28T11:03:47Z",
     "CURRENT_ETOR_TEXT": "2026-03-28T20:30:00Z"
    },
    "geometry": {
@@ -285,9 +285,9 @@
     "EST_CUSTOMERS": 8,
     "OUTAGE_CAUSE": "PLNND SHUTDOWN",
     "CREW_CURRENT_STATUS": "Awaiting Crew",
-    "LAST_UPDATE": 1774692827000,
+    "LAST_UPDATE": 1774695771000,
     "OUTAGE_START_TEXT": "2026-03-27T15:31:00Z",
-    "LAST_UPDATE_TEXT": "2026-03-28T10:13:47Z",
+    "LAST_UPDATE_TEXT": "2026-03-28T11:02:51Z",
     "CURRENT_ETOR_TEXT": "2026-03-27T22:30:00Z"
    },
    "geometry": {
@@ -369,6 +369,42 @@
   },
   {
    "attributes": {
+    "OUTAGE_ID": "207491",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1774695922000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1774695923000,
+    "OUTAGE_START_TEXT": "2026-03-28T11:05:22Z",
+    "LAST_UPDATE_TEXT": "2026-03-28T11:05:23Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13557887.8488,
+    "y": 4676732.9147000015
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "207494",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1774695956000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1774695959000,
+    "OUTAGE_START_TEXT": "2026-03-28T11:05:56Z",
+    "LAST_UPDATE_TEXT": "2026-03-28T11:05:59Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13618205.644099999,
+    "y": 4572718.9048999995
+   }
+  },
+  {
+   "attributes": {
     "OUTAGE_ID": "206749",
     "CURRENT_ETOR": 1774724400000,
     "OUTAGE_START": 1774620591000,
@@ -419,24 +455,6 @@
    "geometry": {
     "x": -13311314.415100001,
     "y": 4392915.1098000035
-   }
-  },
-  {
-   "attributes": {
-    "OUTAGE_ID": "207369",
-    "CURRENT_ETOR": 1774695600000,
-    "OUTAGE_START": 1774661159000,
-    "EST_CUSTOMERS": 5,
-    "OUTAGE_CAUSE": "EMERG REPAIRS",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "LAST_UPDATE": 1774692378000,
-    "OUTAGE_START_TEXT": "2026-03-28T01:25:59Z",
-    "LAST_UPDATE_TEXT": "2026-03-28T10:06:18Z",
-    "CURRENT_ETOR_TEXT": "2026-03-28T11:00:00Z"
-   },
-   "geometry": {
-    "x": -13670404.664799999,
-    "y": 4643826.2331999987
    }
   },
   {
@@ -513,6 +531,24 @@
   },
   {
    "attributes": {
+    "OUTAGE_ID": "207495",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1774695999000,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1774696003000,
+    "OUTAGE_START_TEXT": "2026-03-28T11:06:39Z",
+    "LAST_UPDATE_TEXT": "2026-03-28T11:06:43Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13554168.2739,
+    "y": 4674792.2132999972
+   }
+  },
+  {
+   "attributes": {
     "OUTAGE_ID": "207334",
     "CURRENT_ETOR": 1774697400000,
     "OUTAGE_START": 1774656744000,
@@ -527,6 +563,24 @@
    "geometry": {
     "x": -13614406.8136,
     "y": 4567809.2185999975
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "207478",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1774695722000,
+    "EST_CUSTOMERS": 3231,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1774696168000,
+    "OUTAGE_START_TEXT": "2026-03-28T11:02:02Z",
+    "LAST_UPDATE_TEXT": "2026-03-28T11:09:28Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13557075.5243,
+    "y": 4676210.7346000001
    }
   },
   {
@@ -589,11 +643,11 @@
     "CURRENT_ETOR": 1774696500000,
     "OUTAGE_START": 1774656715000,
     "EST_CUSTOMERS": 1,
-    "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "LAST_UPDATE": 1774688075000,
+    "OUTAGE_CAUSE": "PATROLLING",
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "LAST_UPDATE": 1774695798000,
     "OUTAGE_START_TEXT": "2026-03-28T00:11:55Z",
-    "LAST_UPDATE_TEXT": "2026-03-28T08:54:35Z",
+    "LAST_UPDATE_TEXT": "2026-03-28T11:03:18Z",
     "CURRENT_ETOR_TEXT": "2026-03-28T11:15:00Z"
    },
    "geometry": {
@@ -621,20 +675,56 @@
   },
   {
    "attributes": {
-    "OUTAGE_ID": "207463",
-    "CURRENT_ETOR": 1774702800000,
-    "OUTAGE_START": 1774684544000,
+    "OUTAGE_ID": "207492",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1774695939000,
     "EST_CUSTOMERS": 1,
     "OUTAGE_CAUSE": null,
-    "CREW_CURRENT_STATUS": "T-Man Enroute",
-    "LAST_UPDATE": 1774684546000,
-    "OUTAGE_START_TEXT": "2026-03-28T07:55:44Z",
-    "LAST_UPDATE_TEXT": "2026-03-28T07:55:46Z",
-    "CURRENT_ETOR_TEXT": "2026-03-28T13:00:00Z"
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1774695944000,
+    "OUTAGE_START_TEXT": "2026-03-28T11:05:39Z",
+    "LAST_UPDATE_TEXT": "2026-03-28T11:05:44Z",
+    "CURRENT_ETOR_TEXT": null
    },
    "geometry": {
-    "x": -13536958.0505,
-    "y": 4832243.5962999985
+    "x": -13555393.6994,
+    "y": 4675708.5037999973
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "207493",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1774695941000,
+    "EST_CUSTOMERS": 27,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1774695958000,
+    "OUTAGE_START_TEXT": "2026-03-28T11:05:41Z",
+    "LAST_UPDATE_TEXT": "2026-03-28T11:05:58Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13558326.818500001,
+    "y": 4673489.0410000011
+   }
+  },
+  {
+   "attributes": {
+    "OUTAGE_ID": "207496",
+    "CURRENT_ETOR": null,
+    "OUTAGE_START": 1774695540000,
+    "EST_CUSTOMERS": 3,
+    "OUTAGE_CAUSE": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "LAST_UPDATE": 1774696043000,
+    "OUTAGE_START_TEXT": "2026-03-28T10:59:00Z",
+    "LAST_UPDATE_TEXT": "2026-03-28T11:07:23Z",
+    "CURRENT_ETOR_TEXT": null
+   },
+   "geometry": {
+    "x": -13554033.549899999,
+    "y": 4675790.174999997
    }
   }
  ]
